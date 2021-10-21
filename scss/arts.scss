@@ -1,0 +1,50 @@
+.arts-block {
+  .loading {
+    margin-top: 75px;
+  }
+ .col-md-4.full-height {
+   height: 94.6vh;
+   background: rgba(0, 0, 0, 0.29);
+   overflow-y: scroll;
+   overflow-x: auto;
+   padding: 20px 10px;
+ }
+ img {
+  display: inline-block;
+ }
+ .content {
+    padding-left: 10px;
+    max-width: 100%;
+    overflow-x: hidden;
+   h4 {
+    line-height: 1.25;
+    font-weight: 500;
+   }
+   h5 {
+    font-weight: 200;
+   }
+ }
+}
+
+// right col
+#local-arts {
+  margin-top: 7.5vh;
+}
+.local-art-item {
+  margin: auto;
+  margin-bottom: 40px;
+  padding: 0px 10px 5px 15px;
+  text-align: left;
+  min-height: 160px;
+  max-width: 370px;
+  h4 {
+    margin-top: 8px;
+    line-height: 1.4;
+  }
+}
+@media all and (max-width: 990px) {
+  #arts-block .col-md-4.full-height {
+    height: initial;
+    overflow: visible;
+  }
+}

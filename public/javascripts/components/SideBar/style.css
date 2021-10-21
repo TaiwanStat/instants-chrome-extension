@@ -1,0 +1,40 @@
+.sidebar {
+  font-size: 1.8rem;
+  position: fixed;
+  z-index: 999;
+  list-style: none;
+  border-radius: 10px;
+}
+.sidebar li {
+  font-size: 2rem;
+  color: #fff;
+  margin-bottom: 20px;
+  vertical-align: top;
+  border-radius: 16px;
+  width: 45px;
+  background: rgba(207, 208, 208, 0.8);
+  height: 45px;
+  opacity: 0.8;
+  text-shadow: none;
+  cursor: pointer;
+  text-align: center;
+}
+.sidebar i {
+  margin-top: 12px;
+}
+.sidebar li:hover {
+  opacity: 0.75;
+}
+.sidebar .active {
+  opacity: 1;
+  background: rgba(227, 228, 228, 0.95);
+}
+
+@media all and (max-width: 800px) { 
+  .sidebar li {
+    width: 35px;
+    height: 35px;
+  }
+}
+
+

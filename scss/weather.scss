@@ -1,0 +1,29 @@
+#weather {
+  i {
+    font-size: 1.4rem;
+  }
+  .img__wrapper {
+    margin-top: -5px;
+    margin-bottom: 17px;
+  }
+  .temp-text {
+    font-size: 1.4rem;
+    margin-left: 3px;
+  }
+  .temp {
+    font-size: 1.8rem;
+    position: absolute;
+    margin-left: 46px;
+  }
+}
+
+#weather-forecast, #weather{
+  img.rainy {
+    width: 18px;
+    height: 18px;
+    display: inline-block;
+    margin: auto;
+    margin-top: -4px;
+  }
+}
+

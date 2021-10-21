@@ -1,0 +1,30 @@
+#book {
+  margin-top: 50px;
+
+  .book-img {
+    margin: 20px auto 20px;
+    height: 96px;
+    display: block;
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+
+  .book-title {
+    max-width: 300px;
+    margin: auto;
+    line-height: 22px;
+    text-align: center;
+    &:hover {
+      text-decoration: underline !important;
+    }
+  }
+
+  .book-price {
+    margin-top: 8px;
+  }
+
+  .book-favprice {
+    margin-top: 8px;
+  }
+}

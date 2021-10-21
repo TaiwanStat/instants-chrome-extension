@@ -1,0 +1,75 @@
+.card {
+  p {
+   font-family: 'Times New Roman', STFangSong, FangSong, '仿宋', serif;
+  }
+  display: none;
+  text-shadow: rgba(0, 0, 0, 0.1);
+  z-index: 9999;
+  background: #fff;
+  -webkit-perspective: 700;
+  cursor: pointer;
+  position: absolute;
+  margin: auto;
+  left: 45vw;
+  top: 20vh;
+  width: 300px;
+  height: 460px;
+  img {
+    width: 100%;
+  }
+}
+.card:before {
+  content: '請點擊打開它 ⤏';
+  background: rgba(0, 0, 0, 0.25);
+  position: absolute;
+  width: 200px;
+  height: 100%;
+  line-height: 180px;
+  text-align: center;
+  top: 0;
+  left: -180px;
+  color: #fff;
+  font-size: 1.8rem;
+}
+
+.card:hover .face {
+  -webkit-transition: all 0.3s ease-out;
+}
+.face {
+  background: #eee;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: visible; 
+  -webkit-transition: all 0.5s ease-out;
+  -webkit-transform-origin: 0 0;
+}
+.front {
+  -webkit-transform: rotateY(-20deg);
+  z-index: 2;
+}
+.back {
+  background: rgb(0, 150, 136);
+  -webkit-transform: rotateY(0deg);
+  z-index: 1;
+  color: #fff;
+  padding: 20px;
+}
+.card:hover .front {
+  -webkit-transform: rotateY(-35deg);  
+}
+.card.active .front{
+  -webkit-transform: rotateY(-160deg);  
+}
+.card.active .back {
+  -webkit-transform: rotateY(-5deg);  
+  a.share {
+    float: right;
+    font-size: 12px;
+  }
+}
+#close {
+  float: right;
+}

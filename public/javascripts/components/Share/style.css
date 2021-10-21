@@ -1,0 +1,13 @@
+.share:hover {
+  color: #03A9F4;
+}
+.url {
+  background: transparent;
+  border: 1px solid #fff;
+  padding: 5px;
+  border-radius: 10px;
+  width: 80%;
+  margin-right: 10px;
+}
+.button {
+}

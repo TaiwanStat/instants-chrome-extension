@@ -1,0 +1,22 @@
+.reservoir {
+  text-align: center;
+  svg {
+    height: 148px;
+    display: block;
+    margin: 30px auto 22px auto;
+  }
+  .state {
+    margin-top: 14px;
+    font-size: 1.4rem;
+  }
+  .net-flow {
+    display: inline;
+  }
+  text {
+    font-weight: 200;
+  }
+  i {
+    margin-right: 3px;
+  }
+}
+

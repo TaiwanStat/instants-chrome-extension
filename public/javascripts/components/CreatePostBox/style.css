@@ -1,0 +1,112 @@
+.box {
+  background: rgba(0, 0, 0, 0.45);
+  min-height: 100px;
+  max-width: 600px;
+  min-width: 250px;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 5px;
+  border-radius: 3px;
+  padding: 10px;
+}
+.post_textarea {
+  background: rgba(0, 0, 0, 0);
+  width: 100%;
+  border: 1px solid #E7EDF1;
+  padding: 10px;
+  box-sizing: border-box;
+  outline-color: #5BB3F9;
+  outline-width: 2px;
+  resize: none;
+}
+.box_footer {
+  padding: 5px;
+  display: flex;
+}
+.box_fns {
+  flex: 1;
+}
+.label_select {
+  margin-right: 5px;
+  vertical-align: middle;
+  vertical-align: -webkit-baseline-middle;
+  cursor: pointer;
+  line-height:30px;
+  border: 1px solid rgba(34,36,38,.15);
+  border-radius: .28571429rem;
+  border-color: #96c8da;
+  top: inherit;
+  left: inherit;
+  padding: 5px;
+  margin-top: 10px;
+}
+.label_select div:hover {
+  color: #96C8DA;
+}
+.box_footer i {
+  cursor: pointer;
+  vertical-align: middle;
+  vertical-align: -webkit-baseline-middle;
+}
+.box_footer i span {
+  margin: 5px;
+}
+.submit_btn_wrapper {
+}
+.submit_btn {
+  background: #219BBF;
+  color: #fff;
+  margin-left: 10px;
+  width: 70px;
+}
+.submit_btn:hover, .submit_btn:focus {
+  color: #fff;
+  background: #067D98;
+}
+.count {
+  color: #B1BDC3;
+}
+.overflow {
+  color: #C52B2F;
+}
+
+textArea::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+  color: rgba(255, 255, 255, 0.65);
+}
+textArea:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  color: rgba(255, 255, 255, 0.65);
+  opacity:  1;
+}
+textArea::-moz-placeholder { /* Mozilla Firefox 19+ */
+  color: rgba(255, 255, 255, 0.65);
+  opacity:  1;
+}
+textArea:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: rgba(255, 255, 255, 0.65);
+}
+textArea:placeholder-shown { /* Standard (https://drafts.csswg.org/selectors-4/#placeholder) */
+  color: rgba(255, 255, 255, 0.65);
+}
+.label {
+  padding-left: 10px;
+  vertical-align: -webkit-baseline-middle;
+}
+.photo_icon {
+  margin-left: 8px;
+}
+.photo_icon:hover {
+  opacity: 0.7;
+}
+.photo_preview {
+  margin-top: 3px;
+  height: 100px;
+  max-width: 140px;
+  border-radius: 5px;
+}
+
+@media all and (max-width: 650px) {
+  .box {
+    width: 95%;
+  }
+
+}

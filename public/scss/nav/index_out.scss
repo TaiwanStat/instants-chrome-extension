@@ -1,0 +1,15 @@
+nav.navbar.navbar-default {
+  background: #fff;
+  border-radius: inherit;
+  .navbar-brand {
+    color: #292929;
+  }
+
+  .nav_sign_in a {
+    border-radius: 10px;
+    margin: 10px 0px;
+    padding: 5px 12px 5px 12px;
+    //background: #2A85B4;
+    border: 1px solid #888;
+  }
+}

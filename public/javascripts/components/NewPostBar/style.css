@@ -1,0 +1,15 @@
+.post_bar {
+  background: rgba(212, 212, 212, 0.4);
+  width: 300px;
+  margin: auto;
+  cursor: pointer;
+  text-align: center;
+  padding: 4px;
+  margin-bottom: 10px;
+  border-radius: 30px;
+  display: none;
+}
+
+.show {
+  display: block;
+}

@@ -1,0 +1,47 @@
+.infinite-list-item {
+  color: #fff;
+  text-align: center;
+  width: 32px;
+  margin: auto;
+}
+@keyframes spinner {
+  to {transform: rotate(360deg);}
+}
+@-webkit-keyframes spinner {
+  to {-webkit-transform: rotate(360deg);}
+}
+.loading {
+  width: 24px;
+  height: 24px;
+  color: transparent;
+  content: '';
+  border-radius: 50%;
+  border-top: 3px solid #fff;
+  border-right: 3px solid transparent;
+  animation: spinner .6s linear infinite;
+  -webkit-animation: spinner .6s linear infinite;
+  margin: 10px auto 20px;
+}
+@keyframes preloader {
+  from {-webkit-transform: rotate(0deg);}
+  to {-webkit-transform: rotate(360deg);}
+}
+@-webkit-keyframes preloader {
+  from {-webkit-transform: rotate(0deg);}
+  to {-webkit-transform: rotate(360deg);}
+}
+.spinner {
+   margin: 20px auto;
+   width: 24px;
+   height: 24px;
+   padding: 0px;
+   border-radius: 100%;
+   border: 2px solid;
+   border-top-color: rgba(255, 255, 255, 0.9);
+   border-bottom-color: rgba(255, 255, 255, 0.45);
+   border-left-color: rgba(255, 255, 255, 0.9);
+   border-right-color: rgba(255, 255, 255, 0.45);
+   -webkit-animation: preloader 1s linear infinite;
+   animation: preloader 1s linear infinite;
+}
+

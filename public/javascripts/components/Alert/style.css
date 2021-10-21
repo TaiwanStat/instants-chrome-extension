@@ -1,0 +1,31 @@
+.alert_wrapper {
+  padding: 0;
+  z-index: 99;
+  font-size: 1.8rem;
+  cursor: pointer;
+}
+.alert_icon {
+  color: #D6D6D6;
+}
+.has_alert {
+  color: #fff;
+}
+.alert_display {
+  width: 10px;
+  height: 10px;
+  display: block;
+  background: #F44336;
+  border-radius: 10px;
+  position: absolute;
+  top: -6px;
+  left: 13px;
+}
+
+.alert_menu {
+  position: absolute;
+  right: 0px;
+  left: -180px;
+  width: 320px;
+  top: 30px;
+  color: #fff;
+}

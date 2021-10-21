@@ -1,0 +1,75 @@
+@import "./oil";
+
+.forecast-block {
+  .col-md-6 {
+    background: rgba(0, 0, 0, 0.26);
+    height: 47.2vh;
+    margin: 0.4px 0.6px 0.6px;
+    padding: 15px; 
+    text-align: center;
+    overflow: hidden;
+  }
+  img {
+    height: 75px;
+    margin: auto auto 10px auto;
+    display: block;
+  }
+  .content {
+    max-width: 450px;
+    margin: 6vh auto;
+
+    .center {
+      text-align: center;
+    }
+  }
+  #alert-col {
+    padding-right: 0px;
+  }
+  #alert-wrapper {
+    overflow-y: scroll;
+    padding: 0px 20px;
+    height: 90%;
+    min-height: 180px;
+  }
+}
+#weather-forecast {
+  padding-top: 10px;
+}
+#air-forecast {
+  padding-top: 7px;
+
+  h4 {
+    margin-bottom: 22px;
+    font-family: Helvetica, Arial, sans-serif; 
+  }
+  .status {
+    margin-bottom: 22px;
+    font-size: 1.6rem;
+  }
+}
+#alert-forecast {
+  text-align: left;
+  max-height: 30vh;
+  margin: 0 auto;
+  width: 80%;
+  min-width: 250px;
+  padding-top: 4.5vh;
+
+  .alert-event {
+    margin-top: 15px;
+    min-height: 130px;
+    margin-bottom: 40px;
+  }
+  p {
+    font-family: Helvetica, Arial, "Microsoft Yahei", "微軟雅黑", 'Microsoft JhengHei', sans-serif; 
+  }
+  .smile {
+    height: 110px;
+    margin-top: 12px;
+    margin-bottom: 21px;
+  }
+  .s-bottom {
+    margin-top: 10vh;
+  }
+}
+

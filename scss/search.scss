@@ -1,0 +1,253 @@
+.search-header {
+  position: relative;
+  top: 17vh;
+}
+#search-block {
+  display: none;
+  position: absolute;
+  margin: 0;
+  background: rgba(0,0,0, 0.2);
+  width: 100vw;
+  min-width: 900px;
+  height: 100vh;
+  z-index: 1;
+  h1 {
+    font-size: 40px;
+  }
+  .more-icon {
+    margin: 3.4px 0px 0px 5px;
+  }
+
+  .more-list {
+    display: none;
+    float: right;
+    border-radius: 3px;
+    padding: 5px;
+    position: relative;
+    top: 5px;
+    -webkit-animation: fadein 0.2s;
+     -moz-animation: fadein 0.2s;
+      -ms-animation: fadein 0.2s;
+
+    li {
+      float: none;
+      padding-top: 3px;
+      padding-bottom: 2px;
+      padding-right: 15px;
+    }
+  }
+}
+.search-title {
+  font-weight: 300;
+  width: 300px;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 20px;
+}
+.quotes-wrapper {
+  text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.4);
+  max-width: 800px;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  line-height: 2.4rem;
+
+  .link a {
+    color: #D1D1D1;
+  }
+}
+#quotes {
+  font-weight: 500;
+  font-family: "Georgia", "Songti TC", "SimSun", "NSimSun", "Times New Roman";
+  font-size: 1.8rem;
+  text-align: center;
+  margin: 1.4rem;
+}
+
+.default-search-box {
+  position: relative;
+  top: 21vh;
+  margin: auto;
+  width: 100%;
+  display: block;
+  text-align: center;
+  input[type="text"] {
+    font-weight: normal;
+    padding-left: 10px;
+    color: #fff;
+    width: 640px;
+    border: none;
+    box-shadow: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    border-radius: 5px;
+    background: 0 0;
+    margin: auto;
+    margin-bottom: 25px;
+    font: 16px arial,sans-serif;
+  }
+
+  .google {
+    font-family: arial,sans-serif;
+    line-height: 24px;
+    position: relative;
+    top: -1px;
+    min-width: 54px;
+    text-align: center; 
+    background-color: rgba(66, 133, 244, 1);
+    color: #fff;
+    background-image: none;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+    &:hover {
+      background-color: #3b78e7;
+    }
+  }
+
+
+}
+
+
+.mostVisited {
+  top: 22vh;
+  height: calc(200px + 130px);
+  position: relative;
+  line-height: 100px;
+  width: 650px;
+  margin: auto;
+  padding: 30px;
+
+  img {
+    width: 20px;
+    background: rgba(255, 255, 255, 0.76);
+    border-radius: 3px;
+    padding: 3px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+    &:hover {
+      opacity: 0.6;
+    }
+  }
+  
+  .s-tile {
+    background-color: rgba(0, 0, 0, 0.25);
+    //background-color: rgba(240, 240, 240, 0.25);
+    border-radius: 5px;
+    //border-top: 10px solid #E5E5E5;
+    color: #FFF;
+    display: inline-block;
+    border-radius: 5px;
+    box-sizing: border-box;
+    display: inline-block;
+    height: calc(85px - 2px);
+    line-height: 100%;
+    margin: 0 8px;
+    width: calc(104px - 2px);
+    text-align: center;
+    padding: 15px 0;
+    overflow: hidden;
+    font-size: 1.3rem;
+
+    &:hover {
+      opacity: 0.98;
+    }
+  } 
+  .mv-favicon {
+    background-size: 16px;
+    height: 16px;
+    margin: 5px 10px 15px 5px;
+    pointer-events: none;
+    width: 16px;
+    display: inline-block;
+  }
+
+  a { 
+    color: #fff;
+    display: -webkit-box;
+    height: 100px;
+    margin-top: -30px;
+    padding-top: 25px;
+  }
+  .s-title {
+    border: none;
+    overflow: hidden;
+    text-overflow: clip;
+    //-webkit-mask-image: linear-gradient(to right, #000, #000, 100px, transparent);
+    height: 14px;
+    left: 31px;
+    line-height: 14px;
+    padding: 0;
+    top: 8px;
+    width: calc(130px - 32px - 4px); 
+    display: inline-block;
+    text-align: center;
+  }
+}
+
+.google-nav {
+  position: absolute;
+  opacity: 0.8;
+  border-radius: 5px;
+  right: 80px;
+  top: 12px;
+  padding: 14px;
+  width: 320px;
+  z-index: 999;
+  .g-more {
+    cursor: pointer;
+    &:hover {
+      opacity: 0.9;
+    }
+  }
+  ul {
+    background: rgba(29, 29, 29, 0.5);
+    list-style: none;
+  }
+  li {
+    float: left;
+    padding-left: 15px;
+    font-size: 14px;
+    a {
+      color: #fff;
+      padding: 3px;
+      &:hover {
+        text-decoration: underline !important;
+        opacity: 1;
+      }
+    }
+  }
+}
+
+.s-remove {
+  z-index: 99;
+  position: relative;
+  top: -10px;
+  right: -72px;
+  -webkit-transition: opacity 150ms;
+  border: none;
+  cursor: pointer;
+  width: 40px;
+  opacity: 0;
+}
+
+.s-tile:hover > .s-remove {
+  opacity: 1;
+}
+
+#search-text {
+  display: inline-block;
+}
+
+.microphone {
+  position: relative;
+  right: 15px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+@media all and (max-width: 1400px) {
+  #quotes {
+    font-size: 1.6rem;
+  }
+}
+

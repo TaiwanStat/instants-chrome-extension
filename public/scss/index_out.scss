@@ -1,0 +1,28 @@
+@import './nav/index_out';
+@import './footer/index';
+.right-block {
+  margin-right: 10%;
+  float: right;
+  text-align: center;
+}
+.social-block h3 {
+  line-height: 2.4rem;
+  font-size: 2rem;
+  a {
+    display: block;
+    color: #E8E897;
+    &:hover {
+      color: #E8E897;
+    }
+  }
+}
+.signin_btn {
+  padding: 1.2rem 1.6rem;
+  border-radius: 12px;
+  border: none;
+}
+.note {
+  font-size: 1rem;
+}
+
+

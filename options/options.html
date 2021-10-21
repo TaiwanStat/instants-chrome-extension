@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html>
+  <meta charset="utf-8"/>
+  <meta http-equiv="Content-Type" content="text/html" charset="utf-8"/>
+  <head><title>Instants Extension Options</title></head>
+  <link rel="stylesheet" href="../bower_components/bootstrap/dist/css/bootstrap.min.css" type="text/css" media="screen" charset="utf-8">
+  <link rel="stylesheet" href="../bower_components/semantic-ui-label/label.min.css" type="text/css" media="screen" charset="utf-8">
+  <link rel="stylesheet" href="./options.css" type="text/css" media="screen" charset="utf-8">
+  <link rel="stylesheet" href="../dist/cssgram.min.css" type="text/css" media="screen" charset="utf-8">
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+          </button>
+          <div class="navbar-brand"><img src="../icons/icon48.png" width=30px; style="margin-top: -2px; margin-right: 3px; float:left;"/>Instants 設定頁面</div>
+        </div>
+          <ul class="nav navbar-nav navbar-right">
+            <li class=""><a href="http://demo.instants.xyz/">關於Instants</a></li>
+            <li>
+            <a href="https://docs.google.com/forms/d/1lzsHNhsAXH2dRqJo_F7mfPJLneKinBi3o1E9nmk4jk8/viewform" target="_blank">照片投稿</li>
+        </a>
+            <li class=""><a href="https://www.facebook.com/instantsxyz/">Facebook 專頁</a></li>
+            <li>
+              <a href="http://www.instants.xyz/privacy/">隱私權政策</a>
+            </li>
+          </ul>
+      </div>
+      </nav>  
+
+    <div class="container">
+      <div class="row">
+      <!--Nav Bar -->
+      <div id="nav-sidebar" class="col-xs-3 bs-sidebar">
+          <ul id="sidebar" class="nav nav-stacked fixed">
+            <li>
+            <a href="#basic">基本設定</a>
+            </li>
+            <li>
+            <a href="#life">手動設定氣象生活資訊</a>
+            </li>
+            <li>
+              <a href="#forecast">手動設定預報資訊</a>
+            </li>
+            <li>
+              <a href="#art-movie">手動設定電影藝文資訊</a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="col-md-4 setting">
+
+          <div id="basic">
+            <h4 class="title">基本設定</h4>
+            <hr/>
+
+            <div class="option-block">
+              <h4 class="option-title">頁面顯示</h4>
+              <div class="checkbox">
+                <label>
+                  <input id="show-forecast-page" type="checkbox" value="on">
+                  顯示「預報資訊」分頁
+                </label>
+              </div>
+
+              <div class="checkbox">
+                <label>
+                  <input id="show-arts-page" type="checkbox" value="on">
+                  顯示「電影與藝文資訊」分頁
+                </label>
+              </div>
+              
+              <div class="checkbox">
+                <label>
+                  <input id="show-news-page" type="checkbox" value="on">
+                  顯示「新聞資訊」分頁
+                </label>
+              </div>
+
+              <!--<div class="checkbox">
+                <label>
+                  <input id="show-social-page" type="checkbox" value="on">
+                  顯示「在地交流」分頁
+                </label>
+              </div>-->
+
+              <div class="checkbox">
+                <label>
+                <input id="show-search-page" type="checkbox" value="on">
+                  顯示「搜尋」分頁
+                </label>
+              </div>
+
+              <div class="checkbox">
+                <label>
+                  <input id="show-note-page" type="checkbox" value="on">
+                    顯示「備忘錄」分頁
+                </label>
+              </div>
+
+              <div class="checkbox">
+                <label>
+                <input id="show-bookmark-page" type="checkbox" value="on">
+                  顯示「書籤」分頁
+                </label>
+              </div>
+
+              <div class="checkbox">
+                <label>
+                  <input id="show-apps-page" type="checkbox" value="on">
+                  顯示「應用程式」分頁
+                </label>
+              </div>
+            </div>
+
+            <div class="option-block">
+              <h4>起始畫面</h4>
+              <div class="radio">
+                <label><input type="radio" name="initpage" value="default">繼續瀏覽上次開啟的分頁</label>
+              </div>
+              <div class="radio">
+                <label><input type="radio" name="initpage" value="life">生活品質分頁</label>
+              </div>
+              <div class="radio">
+                <label><input type="radio" name="initpage" value="forecast">預報分頁</label>
+              </div>
+              <!--<div class="radio">
+                <label><input type="radio" name="initpage" value="social">在地交流</label>
+                </div>-->
+              <div class="radio">
+                <label><input type="radio" name="initpage" value="news">新聞資訊分頁</label>
+              </div>
+              <div class="radio">
+                <label><input type="radio" name="initpage" value="arts">電影與藝文分頁</label>
+              </div>
+              <div class="radio">
+                <label><input type="radio" name="initpage" value="search">搜尋分頁</label>
+              </div>
+              <div class="radio">
+                <label><input type="radio" name="initpage" value="bookmark">書籤分頁</label>
+              </div>
+           </div>
+
+          <div class="option-block">
+            <h4>背景圖片設定</h4>
+            
+              <div class="form-group">
+              <label>自訂背景</label><br/>
+              <input type="file" id="bg-image"/><span id="bg-image-status"></span>
+              <output id="list"></output>
+              </div>
+
+              <label>背景亮度</label> <span id="brightness-value"></span>％
+              <input id="brightness" type="range" name="brightness" value="100" min="0" max="100"/>
+              <label>模糊程度</label>
+              <select id="blur" class="form-control">
+                <option value="0">清晰</option>
+                <option value="5">模糊</option>
+                <option value="10">非常模糊</option>
+              </select>
+              <label>背景濾鏡設定</label>
+              <select id="filter" class="form-control">
+                <option value="false">無</option>
+                <option value="aden">aden</option>
+                <option value="reyes">reyes</option>
+                <option value="perpetua">perpetua</option>
+                <option value="inkwell">inkwell</option>
+                <option value="earlybird">earlybird</option>
+                <option value="toaster">toaster</option>
+                <option value="walden">walden</option>
+                <option value="hudson">hudson</option>
+                <option value="gingham">gingham</option>
+                <option value="mayfair">mayfair</option>
+                <option value="lofi">lofi</option>
+                <option value="xpro2">xpro2</option>
+                <option value="_1977">_1977</option>
+                <option value="brooklyn">brooklyn</option>
+                <option value="nashville">nashville</option>
+                <option value="lark">lark</option>
+                <option value="moon">moon</option>
+              </select>
+      
+              <div class="filter-example">
+              <figure class="aden">
+              濾鏡範例：<img id="bg-example" src="https://s3-ap-northeast-1.amazonaws.com/now.instants.xyz/background.jpg" width="380px" height="180px;"/>
+              </figure>
+            </div>
+          </div>
+
+            <!--<div class="option-block">
+              <h4 class="option-title">位置設定</h4>
+              <p>目前系統定位於：<span id="current-location"> </span>
+              <a href="#" id="reset-location"><i class="refresh glyphicon glyphicon-refresh" title="重置"></i></a>
+              <div>當您選擇<strong>自動偵測</strong>時系統將以這個位置更新資訊</div>
+              </p>
+              <hr/>
+              <h5>您也可以以手動設定您的位置或是您想關注的地方</h5>
+              <div class="map__wrapper">
+                <div id="map">
+                </div>
+                <a target="_blank" href="http://map.reactd3.org/" style="background:rgba(255, 255, 255, 0.7); color:#333;"><img src="https://avatars0.githubusercontent.com/u/14354544?v=3&s=200" width="25px" />Powered by react-d3-map</a>
+              </div>
+            </div>-->
+
+        </div><!--end basic-->
+
+        <div id="life">
+          <h4 class="title">氣象生活資訊頁面</h4>
+          <hr/>
+
+           <div class="option-block">
+              <h4 class="option-title">時間設定</h4>
+              <div class="checkbox">
+                <label>
+                  <input id="show-time" type="checkbox" value="on" checked>
+                  顯示時間資訊
+                </label>
+                <select id="time-format" class="form-control">
+                  <option value="24">24小時制</option>
+                  <option value="12">12小時制</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="option-block">
+              <h4 class="option-title">顯示Google搜尋框</h4>
+              <div class="checkbox">
+                <label>
+                  <input id="show-search" type="checkbox" value="on">
+                  顯示
+                </label>
+              </div>
+            </div>
+    
+            <div class="option-block">
+            <h4 class="option-title">氣溫測站設定：</h4>
+            <select id="weather" class="form-control">
+              <option value="auto">自動偵測最近測站</option>
+              <option value="基隆">基隆</option>
+              <option value="淡水">淡水</option>
+              <option value="臺北">臺北</option>
+              <option value="板橋">板橋</option>
+              <option value="新店">新店</option>
+              <option value="竹子湖">竹子湖</option>
+              <option value="新竹">新竹</option>
+              <option value="臺中">臺中</option>
+              <option value="梧棲">梧棲</option>
+              <option value="澎湖">澎湖</option>
+              <option value="日月潭">日月潭</option>
+              <option value="阿里山">阿里山</option>
+              <option value="玉山">玉山</option>
+              <option value="嘉義">嘉義</option>
+              <option value="臺南">臺南</option>
+              <option value="高雄">高雄</option>
+              <option value="恆春">恆春</option>
+              <option value="宜蘭">宜蘭</option>
+              <option value="蘇澳">蘇澳</option>
+              <option value="花蓮">花蓮</option>
+              <option value="成功">成功</option>
+              <option value="臺東">臺東</option>
+              <option value="大武">大武</option>
+              <option value="蘭嶼">蘭嶼</option>
+              <option value="彭佳嶼">彭佳嶼</option>
+              <option value="東吉島">東吉島</option>
+              <option value="東沙">東沙</option>
+              <option value="金門">金門</option>
+              <option value="馬祖">馬祖</option>
+              <option value="新屋">新屋</option> 
+            </select>
+          </div>
+      
+            <div class="option-block">
+            <h4 class="option-title">空氣品質測站設定：</h4>
+            <select id="air" class="form-control">
+              <option value="auto">自動偵測最近測站</option>
+              <option value="基隆">基隆</option>
+              <option value="汐止">汐止</option>
+              <option value="萬里">萬里</option>
+              <option value="新店">新店</option>
+              <option value="土城">土城</option>
+              <option value="板橋">板橋</option>
+              <option value="新莊">新莊</option>
+              <option value="菜寮">菜寮</option>
+              <option value="林口">林口</option>
+              <option value="淡水">淡水</option>
+              <option value="士林">士林</option>
+              <option value="中山">中山</option>
+              <option value="萬華">萬華</option>
+              <option value="古亭">古亭</option>
+              <option value="松山">松山</option>
+              <option value="大同">大同</option>
+              <option value="桃園">桃園</option>
+              <option value="大園">大園</option>
+              <option value="觀音">觀音</option>
+              <option value="平鎮">平鎮</option>
+              <option value="龍潭">龍潭</option>
+              <option value="湖口">湖口</option>
+              <option value="竹東">竹東</option>
+              <option value="新竹">新竹</option>
+              <option value="頭份">頭份</option>
+              <option value="苗栗">苗栗</option>
+              <option value="三義">三義</option>
+              <option value="豐原">豐原</option>
+              <option value="沙鹿">沙鹿</option>
+              <option value="大里">大里</option>
+              <option value="忠明">忠明</option>
+              <option value="西屯">西屯</option>
+              <option value="彰化">彰化</option>
+              <option value="線西">線西</option>
+              <option value="二林">二林</option>
+              <option value="南投">南投</option>
+              <option value="斗六">斗六</option>
+              <option value="崙背">崙背</option>
+              <option value="新港">新港</option>
+              <option value="朴子">朴子</option>
+              <option value="臺西">臺西</option>
+              <option value="嘉義">嘉義</option>
+              <option value="新營">新營</option>
+              <option value="善化">善化</option>
+              <option value="安南">安南</option>
+              <option value="臺南">臺南</option>
+              <option value="美濃">美濃</option>
+              <option value="橋頭">橋頭</option>
+              <option value="仁武">仁武</option>
+              <option value="鳳山">鳳山</option>
+              <option value="大寮">大寮</option>
+              <option value="林園">林園</option>
+              <option value="楠梓">楠梓</option>
+              <option value="左營">左營</option>
+              <option value="前金">前金</option>
+              <option value="前鎮">前鎮</option>
+              <option value="小港">小港</option>
+              <option value="屏東">屏東</option>
+              <option value="潮州">潮州</option>
+              <option value="恆春">恆春</option>
+              <option value="臺東">臺東</option>
+              <option value="花蓮">花蓮</option>
+              <option value="陽明">陽明</option>
+              <option value="宜蘭">宜蘭</option>
+              <option value="冬山">冬山</option>
+              <option value="三重">三重</option>
+              <option value="中壢">中壢</option>
+              <option value="竹山">竹山</option>
+              <option value="永和">永和</option>
+              <option value="復興">復興</option>
+              <option value="埔里">埔里</option>
+              <option value="馬祖">馬祖</option>
+              <option value="金門">金門</option>
+              <option value="馬公">馬公</option>
+              <option value="關山">關山</option>
+              <option value="麥寮">麥寮</option>
+            </select>
+            </div>
+
+ 		<div class="option-block">
+      <h4 class="option-title">紫外線測站設定：</h4>
+        <select id="uv" class="form-control">
+          <option value="auto">自動偵測</option>
+          <option value="基隆">基隆</option>
+      		<option value="淡水">淡水</option>
+          <option value="板橋">板橋</option>
+          <option value="臺北">臺北</option>
+          <option value="桃園">桃園</option>
+          <option value="新竹">新竹</option>
+          <option value="苗栗">苗栗</option>
+          <option value="沙鹿">沙鹿</option>
+          <option value="彰化">彰化</option>
+          <option value="南投">南投</option>
+          <option value="斗六">斗六</option>
+          <option value="朴子">朴子</option>
+          <option value="新營">新營</option>
+          <option value="橋頭">橋頭</option>
+          <option value="屏東">屏東</option>
+          <option value="嘉義">嘉義</option>
+          <option value="臺中">臺中</option>
+          <option value="澎湖">澎湖</option>
+          <option value="宜蘭">宜蘭</option>
+          <option value="金門">金門</option>
+          <option value="日月潭">日月潭</option>
+          <option value="阿里山">阿里山</option>
+          <option value="塔塔加">塔塔加</option>
+          <option value="玉山">玉山</option>
+          <option value="臺東">臺東</option>
+          <option value="蘭嶼">蘭嶼</option>
+          <option value="新屋">新屋</option>			
+          <option value="成功">成功</option>
+          <option value="鞍部">鞍部</option>		
+          <option value="臺南">臺南</option>
+          <option value="高雄">高雄</option>
+          <option value="恆春">恆春</option>
+          <option value="馬祖">馬祖</option>
+          <option value="花蓮">花蓮</option>		 
+        </select>
+		</div>
+
+
+ 		 <div class="option-block">
+            <h4 class="option-title">水庫設定：</h4>
+            <select id="water" class="form-control">
+              <option value="auto">自動偵測距離最近水庫</option>
+              <option value="新山水庫">新山水庫</option>
+              <option value="翡翠水庫">翡翠水庫</option>
+              <option value="石門水庫">石門水庫</option>
+              <option value="寶山水庫">寶山水庫</option>
+              <option value="寶山第二水庫">寶山第二水庫</option>
+              <option value="牡丹水庫">牡丹水庫</option>
+              <option value="石岡壩">石岡壩</option>
+              <option value="仁義潭水庫">仁義潭水庫</option>
+              <option value="日月潭水庫">日月潭水庫</option>
+              <option value="永和山水庫">永和山水庫</option>
+              <option value="霧社水庫">霧社水庫</option>
+              <option value="德基水庫">德基水庫</option>
+              <option value="明德水庫">明德水庫</option>
+              <option value="蘭潭水庫">蘭潭水庫</option>
+              <option value="鯉魚潭水庫">鯉魚潭水庫</option>
+              <option value="曾文水庫">曾文水庫</option>
+              <option value="白河水庫">白河水庫</option>
+              <option value="烏山頭水庫">烏山頭水庫</option>
+              <option value="南化水庫">南化水庫</option>
+              <option value="阿公店水庫">阿公店水庫</option>
+            </select>
+          </div>
+
+          <div class="option-block" id="rain-block">
+            <h4 class="option-title" style="display: inline-block;">雨量測站設定：</h4><span id="rain-status"></span>
+            <select id="rain-county" class="form-control">
+              <option value="auto">自動偵測最近測站</option>
+              <option value="基隆市">基隆市</option>
+              <option value="新北市">新北市</option>
+              <option value="臺北市">臺北市</option>
+              <option value="桃園市">桃園市</option>
+              <option value="新竹市">新竹市</option>
+              <option value="新竹縣">新竹縣</option>
+              <option value="苗栗縣">苗栗縣</option>
+              <option value="臺中市">臺中市</option>
+              <option value="彰化縣">彰化縣</option>
+              <option value="雲林縣">雲林縣</option>
+              <option value="南投縣">南投縣</option>
+              <option value="嘉義市">嘉義市</option>
+              <option value="嘉義縣">嘉義縣</option>
+              <option value="臺南市">臺南市</option>
+              <option value="高雄市">高雄市</option>
+              <option value="屏東縣">屏東縣</option>
+              <option value="宜蘭縣">宜蘭縣</option>
+              <option value="花蓮縣">花蓮縣</option>
+              <option value="臺東縣">臺東縣</option>
+              <option value="澎湖縣">澎湖縣</option>
+              <option value="金門縣">金門縣</option>
+              <option value="連江縣">連江縣</option>
+            </select>
+          </div>
+
+          <div id="forecast">
+            <h4 class="title">預報資訊頁面</h4>
+            <hr/>
+            <div class="option-block">
+              <h4 class="option-title">設定氣象預報資訊取得位置</h4>
+              <select id="weather-forecast" class="form-control">
+              <option value="auto">自動偵測</option>
+              <option value="基隆市">基隆市</option>
+              <option value="新北市">新北市</option>
+              <option value="臺北市">臺北市</option>
+              <option value="桃園市">桃園市</option>
+              <option value="新竹市">新竹市</option>
+              <option value="新竹縣">新竹縣</option>
+              <option value="苗栗縣">苗栗縣</option>
+              <option value="臺中市">臺中市</option>
+              <option value="彰化縣">彰化縣</option>
+              <option value="雲林縣">雲林縣</option>
+              <option value="南投縣">南投縣</option>
+              <option value="嘉義市">嘉義市</option>
+              <option value="嘉義縣">嘉義縣</option>
+              <option value="臺南市">臺南市</option>
+              <option value="高雄市">高雄市</option>
+              <option value="屏東縣">屏東縣</option>
+              <option value="宜蘭縣">宜蘭縣</option>
+              <option value="花蓮縣">花蓮縣</option>
+              <option value="臺東縣">臺東縣</option>
+              <option value="澎湖縣">澎湖縣</option>
+              <option value="金門縣">金門縣</option>
+              <option value="連江縣">連江縣</option>
+            </select>
+          </div>
+            <div class="option-block">
+              <h4 class="option-title">設定空氣品質預報資訊取得位置</h4>
+              <select id="air-forecast" class="form-control">
+              <option value="auto">自動偵測</option>
+              <option value="基隆市">基隆市</option>
+              <option value="新北市">新北市</option>
+              <option value="臺北市">臺北市</option>
+              <option value="桃園市">桃園市</option>
+              <option value="新竹市">新竹市</option>
+              <option value="新竹縣">新竹縣</option>
+              <option value="苗栗縣">苗栗縣</option>
+              <option value="臺中市">臺中市</option>
+              <option value="彰化縣">彰化縣</option>
+              <option value="雲林縣">雲林縣</option>
+              <option value="南投縣">南投縣</option>
+              <option value="嘉義市">嘉義市</option>
+              <option value="嘉義縣">嘉義縣</option>
+              <option value="臺南市">臺南市</option>
+              <option value="高雄市">高雄市</option>
+              <option value="屏東縣">屏東縣</option>
+              <option value="宜蘭縣">宜蘭縣</option>
+              <option value="花蓮縣">花蓮縣</option>
+              <option value="臺東縣">臺東縣</option>
+              <option value="澎湖縣">澎湖縣</option>
+              <option value="金門縣">金門縣</option>
+              <option value="連江縣">連江縣</option>
+            </select>
+          </div>
+
+        </div> <!-- end forecast-->
+
+          <div id="art-movie">
+            <h4 class="title">電影藝文資訊頁面</h4>
+            <hr/>
+            <div class="option-block">
+              <h4 class="option-title">設定藝文資訊取得位置</h4>
+              <select id="arts" class="form-control">
+              <option value="auto">自動偵測</option>
+              <option value="基隆市">基隆市</option>
+              <option value="新北市">新北市</option>
+              <option value="台北市">臺北市</option>
+              <option value="桃園市">桃園市</option>
+              <option value="新竹市">新竹市</option>
+              <option value="新竹縣">新竹縣</option>
+              <option value="苗栗縣">苗栗縣</option>
+              <option value="台中市">臺中市</option>
+              <option value="彰化縣">彰化縣</option>
+              <option value="雲林縣">雲林縣</option>
+              <option value="南投縣">南投縣</option>
+              <option value="嘉義市">嘉義市</option>
+              <option value="嘉義縣">嘉義縣</option>
+              <option value="台南市">臺南市</option>
+              <option value="高雄市">高雄市</option>
+              <option value="屏東縣">屏東縣</option>
+              <option value="宜蘭縣">宜蘭縣</option>
+              <option value="花蓮縣">花蓮縣</option>
+              <option value="台東縣">臺東縣</option>
+              <option value="澎湖縣">澎湖縣</option>
+              <option value="金門縣">金門縣</option>
+              <option value="連江縣">連江縣</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="status" id="status">
+            設定已更新
+          </div>
+
+        </div><!--row-->
+      </div>
+      <script src="../bower_components/jquery/dist/jquery.min.js"></script>
+      <script src="../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+      <script src="../bower_components/d3/d3.min.js"></script>
+      <script src="options.js"></script>
+
+    </div>
+  </body>
+</html>

@@ -1,0 +1,26 @@
+.notification {
+  position: fixed;
+  right: 5px;
+  top: 50px;
+  background: rgba(96, 88, 84, 0.24);
+  padding: 10px;
+}
+@keyframes spinner {
+  to {transform: rotate(360deg);}
+}
+@-webkit-keyframes spinner {
+  to {-webkit-transform: rotate(360deg);}
+}
+.spinner {
+  text-align: center;
+  width: 24px;
+  height: 24px;
+  margin: auto;
+  color: transparent;
+  content: '';
+  border-radius: 50%;
+  border-top: 2px solid #fff;
+  border-right: 2px solid transparent;
+  animation: spinner .6s linear infinite;
+  -webkit-animation: spinner .6s linear infinite;
+}

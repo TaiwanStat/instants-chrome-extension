@@ -1,0 +1,28 @@
+#air {
+  .site_name {
+    margin-top: -4.5px;
+    margin-bottom: 15px;
+  }
+  .status {
+    font-size: 1.6rem;
+    margin-bottom: 15px;
+  }
+  .pm-value {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  .info-content {
+    width: 90%;
+    margin: auto;
+    h5 {
+      font-size: 14px;
+    }
+  }
+}
+.ui.orange.label {
+  background-color: #FF8F00!important;
+  border-color: #FF8F00!important;
+}
+.ui.yellow.label {
+  background-color: #FFC107 !important;
+}
+

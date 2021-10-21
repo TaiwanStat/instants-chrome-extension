@@ -1,0 +1,14 @@
+.reply_box {
+  color: #FFF;
+  width: 100%;
+  margin: auto;
+  display: block;
+  background: rgba(0, 0, 0, 0.46);
+  border: none;
+  height: 36px;
+  padding: 10px;
+  outline: none; 
+}
+.count {
+  margin-left: 10px;
+}

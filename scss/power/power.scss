@@ -1,0 +1,30 @@
+#power {
+  min-width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 7.8vh;
+  overflow: auto;
+
+  span {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
+  #battery {
+    width: 176px;
+    height: 90px;
+    margin: 0px auto 9px;
+    display: block;
+  }
+  i {
+    display: inline-block;
+  }
+
+
+  .news {
+    width: 75%;
+    min-width: 250px;
+    margin: 0px auto 5px;
+    padding-bottom: 0px;
+    min-height: 40px;
+  }
+}

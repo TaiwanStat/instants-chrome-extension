@@ -1,0 +1,28 @@
+{
+  "name": "now-chrome-extension",
+  "description": "now-chrome-extension",
+  "main": "./lib/index.js",
+  "authors": [
+    "twstat team"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.6",
+    "d3": "~3.5.10",
+    "jquery-ui": "2.4.3",
+    "semantic-ui-label": "~2.1.6"
+  },
+  "dependencies": {
+    "Ionicons": "ionicons#~2.0.1"
+  }
+}

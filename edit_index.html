@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="utf-8"/>
+    <meta property="og:title" content="Instants">
+    <meta property="og:site_name" content="Instants">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:description" content="提供您最即時的生活資訊 | Instants">
+    <link rel="stylesheet" href="./bower_components/bootstrap/dist/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="./bower_components/semantic-ui-label/label.min.css" type="text/css">
+    <link rel="stylesheet" href="./dist/cssgram.min.css" type="text/css">
+    <link rel="stylesheet" href="./dist/index.css" type="text/css">
+    <link rel="stylesheet" href="./public/stylesheets/index_out.css" type="text/css">
+    <title>新增分頁</title>
+</head>
+<body id="body">
+  <div class="container-fluid">
+
+    <div class="error">
+    </div>
+
+    <div class="left-sidebar">
+      <div class="list-menu">
+        <ul id="ul-menu">
+        </ul>
+      </div>
+    </div> <!-- end left sidebar -->
+
+    <div class="right-sidebar">
+      <div id="option" class="rt" style="top: 25px;">
+        <a>
+          <i class="glyphicon glyphicon-cog" title="設定">
+          </i>
+        </a>
+      </div>
+
+      <div class="loc-setting-panel">
+        <div class="location-list">
+        </div>
+        <input id="search-location" type="text" class="form-control" placeholder="搜尋城市、地區名稱 ···" />
+        <div class="search-result"></div>
+      </div>
+
+      <div id="refresh" class="rt" style="bottom: 175px;">
+        <i class="refresh glyphicon glyphicon-refresh" title="重新整理"></i>
+      </div>
+
+      <div id="location-setting" class="rt" style="bottom: 140px; right: 16.7px;">
+        <i class="glyphicon glyphicon-map-marker" title="設定位置"></i>
+      </div>
+
+      <div id="pencil" class="rt" style="bottom: 140px; right: 14px;">
+        <a href="https://goo.gl/Jov1TG" target="_blank">
+          <i class="glyphicon glyphicon-pencil" title="每日一句投稿"></i>
+        </a>
+      </div>
+
+      <div id="plus" class="rt" style="bottom: 175px;">
+        <i class="glyphicon glyphicon-plus-sign"></i>
+      </div>
+
+      <div id="minus" class="rt" style="bottom: 140px;">
+        <i class="glyphicon glyphicon-minus-sign"></i>
+      </div>
+
+      <div id="brightness-wrapper" class="brightness-wrapper">
+        <div class="form-control">
+          <label>背景亮度</label> <span id="brightness-value"></span>％
+          <input id="brightness" type="range" name="brightness" value="100" min="0" max="100"/>
+        </div>
+      </div>
+
+      <div id="brightness-control" class="rt" style="bottom: 105px;">
+        <i class="glyphicon glyphicon-adjust" title="調整背景亮度"></i>
+      </div>
+
+      <div id="photo" class="rt" style="bottom: 70px;">
+        <a href="https://docs.google.com/forms/d/1lzsHNhsAXH2dRqJo_F7mfPJLneKinBi3o1E9nmk4jk8/viewform" target="_blank">
+          <i class="glyphicon glyphicon-picture" title="照片投稿"></i>
+        </a>
+      </div>
+
+        <div class="feedback rt" style="bottom: 35px;">
+          <i id="contact-btn" class="glyphicon glyphicon-comment" title="使用問題回報"></i>
+        </div>
+
+    </div> <!-- end right sidebar -->
+
+    <div class="menu-control rt" style="bottom: 2px">
+      <i id="menu-status" class="glyphicon glyphicon-menu-up menu-status"></i>
+    </div>
+
+    <div class="row">
+
+      <div id="life-block" class="life-block page">
+        <div class="now_wrapper">
+          <div id="now" class="now"></div>
+        </div>
+
+        <div class="search-box">
+          <form  method="get" action="http://www.google.com/search"> <input id="g-user-input" class="form-control" placeholder="在Google上搜尋" type="text" name="q" size="31" maxlength="255" value=""  autocomplete="off">
+          <input class="google" type="submit" value="Google搜尋"></form>
+        </div>
+
+        <div class="col-md-4 top radius-top-left">
+          <h4 class="col-title ui blue massive">
+            <a href="http://www.cwb.gov.tw/V7/observe/">即時天氣概況</a>
+          </h4>
+          <div id="weather" class="content">
+          </div>
+        </div>
+
+        <div class="col-md-4 top center">
+          <h4 class="col-title ui massive">
+            <a href="https://www.taiwanstat.com/realtime/pm2.5/">即時空氣品質</a>
+          </h4>
+          <div id="air" class="content">
+          </div>
+        </div>
+
+        <div class="col-md-4 top radius-top-right">
+          <h4 class="col-title ui huge">
+            <a href="https://www.taiwanstat.com/realtime/uv/">即時紫外線指數</a>
+          </h4>
+          <div id="uv" class="content">
+          </div>
+        </div>
+
+        <div class="col-md-4 bottom radius-bottom-left">
+          <h4 class="col-title ui massive">
+            <a class="power-title" href="https://www.taiwanstat.com/power/">全台即時電力資訊</a>
+          </h4>
+          <div id="power" class="content">
+          </div>
+        </div>
+
+        <div class="col-md-4 bottom center">
+          <h4 class="col-title ui massive">
+            <a class="water-title" href="http://water.taiwanstat.com/">水庫 即時水情</a>
+          </h4>
+          <div id="water" class="content">
+          </div>
+        </div>
+
+        <div class="col-md-4 bottom radius-bottom-right">
+          <h4 class="col-title ui massive">
+            <a href="https://www.taiwanstat.com/realtime/rain/">即時雨量</a>
+          </h4>
+          <div id="rain" class="content">
+          </div>
+        </div>
+      </div> <!-- end life page -->
+
+      <div id="search-block" class="search-block page">
+
+        <div class="search-header">
+          <h1 class="search-title">Google 搜尋</h1>
+          <div class="quotes-wrapper">
+            <span id="quotes"></span>
+          </div>
+        </div>
+
+        <div class="google-nav">
+          <ul>
+            <li><a href="https://mail.google.com/mail/?tab=wm">Gmail</a></li>
+            <li><a href="https://maps.google.com.tw/maps?hl=zh-TW&tab=wl">地圖</a></li>
+            <li><a href="https://www.google.com.tw/imghp?hl=zh-TW">圖片</a></li>
+            <li class="g-more"><i class="more-icon glyphicon glyphicon-th" title="更多" /></li>
+            <li style="float: right;"><ul class="more-list">
+              <li><a href="https://www.youtube.com/?gl=TW&tab=w1&authuser=0">YouTube</a></li>
+              <li><a href="https://news.google.com.tw/nwshp?hl=zh-TW&tab=wn&authuser=0">新聞</a></li>
+              <li><a href="https://drive.google.com/">雲端硬碟</a></li>
+              <li><a href="https://www.google.com/calendar/">日曆</a></li>
+              <li><a href="https://translate.google.com.tw/">翻譯</a></li>
+              <li><a href="https://photos.google.com/?tab=wq&authuser=0">相片</a></li>
+              <li><a href="https://plus.google.com/u/0/?tab=wX">Google +</a></li>
+              <li><a href="https://www.google.com.tw/intl/zh-TW/about/products/">更多</a></li>
+            </ul></li>
+          </ul>
+        </div>
+
+        <div class="default-search-box">
+          <form  method="get" action="http://www.google.com/search">
+             <input type="hidden" name="ie" value="UTF-8" />
+             <input id="search-text" class="form-control" type="text" placeholder="在Google上搜尋" name="q" size="31" maxlength="255" value=""  autocomplete="off" />
+             <i id="speech" class="fa fa-microphone microphone" title="語音搜尋"></i><br/>
+             <input class="google" type="submit" value="Google搜尋" />
+          </form>
+        </div>
+        <div id="mostVisited" class="mostVisited">
+      </div>
+
+      </div> <!-- end search page-->
+
+      <div id="forecast-block" class="forecast-block page">
+        <div class="col-md-6 radius-top-left">
+          <h4 class="weather-forecast-title col-title ui massive">
+            <a href="http://www.cwb.gov.tw/V7/forecast/"></a>
+          </h4>
+          <div id="weather-forecast" class="content">
+          </div>
+        </div>
+
+        <div class="col-md-6 radius-top-right">
+          <h4 class="air-forecast-title col-title ui massive">
+            <a href="http://taqm.epa.gov.tw/taqm/tw/PsiForecastMap.aspx"></a>
+          </h4>
+          <div id="air-forecast" class="content">
+          </div>
+        </div>
+
+        <div id="alert-col" class="col-md-6 radius-bottom-left">
+          <div id="alert-wrapper" class="scrollable">
+            <h4 class="col-title ui massive">
+              <a id="alert-title" href="http://www.cwb.gov.tw/V7/prevent/"></a>
+            </h4>
+            <div id="alert-forecast" class="content">
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6 radius-bottom-right">
+          <h4 id="oil-title" class="col-title ui massive">
+            <a href="http://new.cpc.com.tw/mobile/Home/"></a>
+          </h4>
+          <div id="oil" class="content">
+          </div>
+        </div>
+
+      </div> <!-- end forecast -->
+
+      <div id="arts-block" class="arts-block page">
+
+        <div class="col-md-4 full-height scrollable radius-top-left radius-bottom-left">
+          <h4 class="col-title"><a href="https://tw.movies.yahoo.com/">台北票房排名</a></h4>
+            <div id="movie-rank" class="content">
+            </div>
+          </div>
+
+        <div class="col-md-4 full-height scrollable">
+         <h4 class="col-title"><a href="https://tw.movies.yahoo.com/movie_thisweek.html">本周上映電影</a></h4>
+            <div id="movie-this-week" class="content">
+            </div>
+          </div>
+
+        <div id="arts-col" class="col-md-4 full-height scrollable radius-top-right radius-bottom-right">
+          <h4 class="col-title">附近舉行的藝文活動</h4>
+          <div id="local-arts" class="content">
+          </div>
+        </div>
+
+      </div><!-- end arts page -->
+
+      <div id="news-block" class="news-block page">
+
+        <div class="col-md-4 full-height scrollable radius-top-left radius-bottom-left">
+          <h4 class="col-title">國際新聞</h4>
+            <div id="global-news" class="content">
+            </div>
+          </div>
+
+        <div class="col-md-4 top">
+          <h4 class="col-title">重點新聞</h4>
+            <div id="local-news" class="content scrollable">
+            </div>
+          </div>
+
+        <div class="col-md-4 top radius-top-right">
+          <h4 class="col-title">科學科技</h4>
+          <div id="tech-news" class="content scrollable">
+          </div>
+        </div>
+
+        <div class="col-md-4 bottom scrollable">
+         <h4 class="col-title">生活旅行</h4>
+            <div id="travel-news" class="content scrollable">
+            </div>
+        </div>
+
+       <div class="col-md-4 bottom radius-bottom-right">
+          <h4 class="col-title">體育賽事</h4>
+          <div id="sport-news" class="content scrollable">
+          </div>
+        </div>
+
+
+      </div><!-- end arts page -->
+
+      <div id="social-block" class="social-block page">
+        <div class="social-cover">
+        </div>
+        <div class="social-out">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="site-heading">
+              <h1>Instants 重新認識生活的美好</h1>
+              <h3>
+                在地交流社群，透過簡易的發文與留言，獲取在地生活資訊，<br/>隨時得知日常生活所需的大小事。
+                <a href="https://www.instants.io/about">進一步了解＞</a>
+              </h3>
+              <div class="right-block">
+                <a class="signin_btn btn btn-primary" href="https://www.instants.io/users/signin">使用 Facebook 登入</a>
+              <div class="note">（將重新導向 Instants 官網）</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="social-in">
+          <nav class="navbar navbar-default">
+           <div class="container">
+            <div class="nav-center"></div>
+            <div class="nav-right">
+              <a id="nav-submenu" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></a>
+              <div class="dropdown-menu">
+                <a href="https://www.instants.io/users/signout">登出</a>
+              </div>
+            </div>
+          </div>
+          </nav>
+          <div id="root">
+          </div>
+          <div id="map" class="map">
+          </div>
+          <div class="user-numbers">
+          </div>
+        </div>
+      </div>
+
+      <div id="note-block" class="note-block page">
+        <div class="notes">
+
+        </div>
+      </div>
+
+      <div id="bookmark-block" class="bookmark-block page">
+        <input id="bookmark-search"  type="text" class="form-control" placeholder="搜尋書籤" />
+        <div id="bookmark-content" class="bookmark-content">
+        </div>
+      </div>
+
+    </div> <!--end row -->
+  </div><!--end container-->
+
+  <div class="footer">
+    <div class="author-wrapper">
+    </div>
+  </div> <!--end footer-->
+
+
+  <div class="background-wrapper">
+    <figure id="background" class="background"></figure>
+  </div>
+
+  <div id="contact" class="contact">
+    <div class="message-header">需要我們的協助嗎？<div class="close-contact">x</div>
+    </div>
+    <form name="sentMessage" id="contact-form" novalidate>
+      <div class="form-group">
+        <input type="text" class="form-control" placeholder="輸入您的姓名 *" id="name" required data-validation-required-message="請輸入您的姓名">
+        <p class="help-block text-danger"></p>
+    </div>
+    <div class="form-group">
+        <input type="email" class="form-control" placeholder="輸入Email *" id="email" required data-validation-required-message="請輸入您的信箱">
+        <p class="help-block text-danger"></p>
+    </div>
+      <div class="form-group">
+        <textarea class="form-control" placeholder="輸入您的訊息 *" id="message" required data-validation-required-message="請輸入您的訊息"></textarea>
+        <p class="help-block text-danger"></p>
+      </div>
+    <div class="clearfix"></div>
+      <div id="success"></div>
+      <button type="submit" class="btn btn-default btn-xl">送出</button>
+    </form>
+  </div>
+
+  <script src="./bower_components/jquery/dist/jquery.min.js"></script>
+  <script src="./bower_components/d3/d3.min.js"></script>
+  <script src="./bower_components/jquery-ui/jquery-ui.min.js"></script>
+  <script src="./vendor/color-thief.min.js"></script>
+  <script src="./vendor/Sortable.min.js"></script>
+  <script src="./dist/bundle.js"></script>
+  <script src="./bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="./vendor/font-awesome-4.5.0/css/font-awesome.min.css" type="text/css">
+</body>
+</html>

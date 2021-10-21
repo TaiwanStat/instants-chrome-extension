@@ -1,0 +1,144 @@
+article {
+  flex-direction: column;
+  background: rgba(0, 0, 0, 0.5);
+  border-bottom: 1px solid rgba(50, 50, 50, 0.4);
+}
+
+article p {
+  font-size: 15px;
+  white-space: pre-line;
+  word-wrap: break-word;
+  line-height: 22px;
+  text-align: justify;
+  font-family: helvetica, arial, sans-serif;
+}
+
+
+.retweet_header {
+  background: rgba(51, 51, 51, 0.5);
+}
+
+.retweet_header img {
+  padding: 5px;
+  border-radius: 30px;
+  width: 30px;
+}
+
+header img {
+  width: 30px;
+}
+
+header {
+  height: 64px;
+  padding: 14px 20px;
+}
+
+header span {
+  vertical-align: middle;
+  display: inline-block;
+  flex-grow: 1;
+  flex-shrink: 1;
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  -ms-flex-negative: 1;
+  overflow: hidden;
+}
+
+.post {
+  min-height: 150px;
+  width: 80%;
+  max-width: 600px;
+  min-width: 250px;
+  margin: auto;
+  display: flex;
+  margin-bottom: 0.1px;
+}
+
+.post_time {
+  float: right;
+  color: #D9D9D9;
+}
+.avatar {
+  display: inline;
+  border-radius: 30px;
+  margin: -1px 12px -1px -5px;
+}
+.username {
+}
+
+.header_center {
+  display: inline-block;
+}
+
+.post_distance {
+  font-size: 1rem;
+}
+
+.content {
+  color: rgb(245, 245, 245);
+  margin-top: 10px;
+  padding: 5px 20px 5px 20px;
+  min-height: 50px;
+  word-break: break-all;
+}
+.photo {
+  border-radius: 7px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+  max-width: 100%;
+  cursor: pointer;
+  max-height: 420px;
+}
+
+.full_photo {
+  max-width: 700px;
+  margin: auto;
+  display: block;
+}
+
+.post_footer {
+  padding: 0px 20px 0px 20px;
+  background: rgba(51, 51, 51, 0.45);
+}
+.post_footer > div {
+  margin: 10px;
+  font-size: 1.6rem;
+  width: 60px;
+  display: inline-block;
+  font-weight: bold;
+  color: #D2D2D2;
+}
+.post_footer i {
+  cursor: pointer;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+.post_footer i:hover {
+  opacity: 0.8;
+}
+.post_footer i span {
+  vertical-align: text-top;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+@media all and (max-width: 650px) {
+  .post {
+   width: 92%;
+  }
+  .content {
+    margin-top: 20px;
+    min-height: 100px;
+    padding: 10px 20px 10px 20px;
+  }
+  .post_footer > div {
+    margin: 3px;
+    width: 45px;
+  }
+  .post_footer i span {
+    margin-left: 5px;
+  }
+  .post_time {
+    font-size: 1rem;
+    float: right;
+  }
+}

@@ -1,0 +1,103 @@
+#news-block {
+  background: rgba(0, 0, 0, 0.12);
+  height: 100vh;
+  width: 100vw;
+  margin: 0px;
+  padding: 12px 0.3vw 16px 5.2vw;
+  overflow: hidden;
+
+  .loading {
+    margin-top: 75px;
+  }
+ .col-md-4 {
+   margin: 5px 0.5px;
+   background: rgba(0, 0, 0, 0.25);
+ }
+ .col-md-4.full-height {
+   height: 94.4vh;
+   overflow-y: scroll;
+   overflow-x: auto;
+   padding: 20px 10px;
+  }
+  img {
+    display: inline-block;
+  }
+ .content {
+   text-align: left;
+   margin-top: 30px;
+   max-width: 100%;
+   overflow-x: hidden;
+   overflow-y: auto;
+   h4 {
+    font-weight: 500;
+   }
+   h5 {
+    font-weight: 200;
+   }
+ }
+ .top{
+    margin-bottom: 0.5px;
+   .content {
+      height: 33vh;
+   }
+  }
+  .bottom {
+    margin-top: 0.5px;
+    padding-top: 1.3vh;
+    .content {
+      height: 35vh;
+    }
+  }
+}
+
+.news {
+  padding: 5px 12px 5px 8px;
+  border-radius: 3px;
+  min-height: 130px;
+  line-height: 1.54;
+  display: flex;
+  display: -webkit-flex;
+  width: 90%;
+  margin: auto;
+  max-width: 320px;
+  min-width: 150px;
+  text-align: left;
+
+  h4 {
+    line-height: 21px;
+  }
+
+  h5 {
+    margin-top: -1px;
+    color: #ddd;
+    font-size: 12px;
+  }
+  &:hover {
+    opacity: 1 !important;
+  }
+}
+.n-img {
+  margin-top: 10px;
+  margin-bottom: 50px;
+  flex: 1;
+  img {
+   width: 90px;
+   margin-right: 15px;
+  }
+}
+.news-title {
+  font-family: Helvetica, Arial, "Microsoft Yahei", "微軟雅黑", 'Microsoft JhengHei', sans-serif; 
+  &:hover {
+    text-decoration: underline !important;
+  }
+}
+.news-source {
+  margin-right: 8px;
+}
+@media all and (min-width: 1300px) {
+  #news-block {
+    h5 {
+      font-size: 14px;
+    }
+  }
+}

@@ -1,0 +1,11 @@
+.heart {
+}
+.heart:hover {
+}
+.like:hover {
+  color: #FF4B3E;
+}
+
+.liked {
+  color: #FF4B3E !important;
+}

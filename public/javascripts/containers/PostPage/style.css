@@ -1,0 +1,11 @@
+.post_page {
+
+}
+.loading_status {
+  width: 600px;
+  margin: auto;
+}
+.post_empty_msg {
+  text-align: center;
+  font-size: 1.6rem;
+}

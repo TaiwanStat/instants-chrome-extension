@@ -1,0 +1,70 @@
+#oil {
+  .status {
+    margin: 10px;
+  }
+  i {
+    font-size: 36px;
+    margin-right: 5px;
+  }
+  .glyphicon-arrow-up {
+    color: #DB2828;
+  }
+  .glyphicon-arrow-down {
+    color: #4CAF50;
+  }
+  h2 {
+    font-weight: 300;
+    font-size: 38px;
+  }
+  .value {
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+    display: inline-block;
+    text-align: center;
+    width: 52px;
+  }
+  .type {
+    display: inline-block;
+    width: 70px;
+    text-shadow: none;
+  }
+  .nineeight {
+    .type {
+      background-color: #144E33;
+    }
+  }
+  .ninefive {
+    .type {
+      background-color: #4C1A19;
+    }
+  }
+  .ninetwo {
+    .type {
+      background-color: #3E275B;
+    }
+  }
+  .ultra {
+    .type {
+      background-color: #154786;
+    }
+  }
+  .unit {
+    background: #fff;
+    color: #333;
+    font-size: 1.2rem;
+    text-shadow: none;
+  }
+  .detail {
+    text-align: left;
+    width: 190px;
+    margin: auto;
+    span {
+      padding: 3px;
+    }
+  }
+  h4 {
+    margin: 2px;
+  }
+  .status-number {
+    font-size: 45px;
+  }
+}

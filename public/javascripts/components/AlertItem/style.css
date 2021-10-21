@@ -1,0 +1,19 @@
+.alert {
+  color: #fff;
+  text-align: left;
+  min-height: 50px;
+  display: block;
+  padding: 10px;
+  margin-bottom: 1px;
+}
+.alert:hover {
+  opacity: 0.7;
+}
+.alert img {
+  width: 28px;
+  border-radius: 30px;
+  margin-right: 10px;
+}
+.unread {
+  background: rgba(172, 179, 185, 0.57);
+}

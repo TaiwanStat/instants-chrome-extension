@@ -1,0 +1,63 @@
+#movie-rank {
+  padding-top: 7.6vh;
+}
+#movie-this-week {
+  padding-top: 7.5vh;
+}
+.movie-title {
+  width: 100%;
+  margin-bottom: 15px;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+.movie {
+  display: flex;
+  display: -webkit-flex;
+  text-align: center;
+  width: 90%;
+  margin: auto;
+  height: 150px;
+  min-width: 280px;
+  max-width: 325px;
+  padding-left: 9%;
+  a img {
+    height: 120px;
+    box-shadow: 0.5px 0.5px 0.5px #313131;
+    -webkit-flex: 1;
+    flex: 1;
+  }
+  h4 {
+    margin-top: 0;
+  }
+  .movie-text {
+
+    text-align: left;
+    -webkit-flex: 2;
+    flex: 2;
+    margin-left: 1.5vw;
+  }
+  .i {
+    margin-right: 2px;
+  }
+}
+.intro-icon {
+  padding: 1px;
+  font-size: 10px;
+}
+.no-img {
+  -webkit-flex: 1;
+  flex: 1;
+  border: 1px solid;
+  max-width: 85px;
+  margin: auto;
+  height: 120px;
+  h5 {
+    margin-top: 50px;
+  }
+}
+.rank {
+  font-weight: bold;
+  min-height: 100px;
+}
+

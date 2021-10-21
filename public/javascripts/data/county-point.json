@@ -1,0 +1,5657 @@
+[
+  {
+    "properties": {
+      "TOWNSN": "10021005",
+      "TOWNID": "1002107",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "安平區",
+      "name": "台南市/安平區"
+    },
+    "townName": "安平區",
+    "countyName": "台南市",
+    "point": [
+      120.1617447696244,
+      22.98325073375563
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013007",
+      "TOWNID": "1001306",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "長治鄉",
+      "name": "屏東縣/長治鄉"
+    },
+    "townName": "長治鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.54476872788496,
+      22.686479117026078
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012011",
+      "TOWNID": "1001219",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "旗山區",
+      "name": "高雄市/旗山區"
+    },
+    "townName": "旗山區",
+    "countyName": "高雄市",
+    "point": [
+      120.47557209533296,
+      22.87823387054574
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009013",
+      "TOWNID": "1000915",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "褒忠鄉",
+      "name": "雲林縣/褒忠鄉"
+    },
+    "townName": "褒忠鄉",
+    "countyName": "雲林縣",
+    "point": [
+      120.30622198943661,
+      23.710936993839315
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10020001",
+      "TOWNID": "1002001",
+      "COUNTYNAME": "嘉義市",
+      "TOWNNAME": "東區",
+      "name": "嘉義市/東區"
+    },
+    "townName": "東區",
+    "countyName": "嘉義市",
+    "point": [
+      120.47313851648642,
+      23.487030526410955
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10015004",
+      "TOWNID": "1001505",
+      "COUNTYNAME": "花蓮縣",
+      "TOWNNAME": "吉安鄉",
+      "name": "花蓮縣/吉安鄉"
+    },
+    "townName": "吉安鄉",
+    "countyName": "花蓮縣",
+    "point": [
+      121.56749746339695,
+      23.96022017116411
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011010",
+      "TOWNID": "1001109",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "六甲區",
+      "name": "台南市/六甲區"
+    },
+    "townName": "六甲區",
+    "countyName": "台南市",
+    "point": [
+      120.37730632281225,
+      23.228578959059252
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10017018",
+      "TOWNID": "1001705",
+      "COUNTYNAME": "基隆市",
+      "TOWNNAME": "中山區",
+      "name": "基隆市/中山區"
+    },
+    "townName": "中山區",
+    "countyName": "基隆市",
+    "point": [
+      121.73283363653252,
+      25.153060115133414
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013031",
+      "TOWNID": "1001324",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "滿州鄉",
+      "name": "屏東縣/滿州鄉"
+    },
+    "townName": "滿州鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.8605698029654,
+      22.05676691173658
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009025",
+      "TOWNID": "1000919",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "口湖鄉",
+      "name": "雲林縣/口湖鄉"
+    },
+    "townName": "口湖鄉",
+    "countyName": "雲林縣",
+    "point": [
+      120.09718535179442,
+      23.52376787817277
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "16003",
+      "TOWNID": "1603",
+      "COUNTYNAME": "澎湖縣",
+      "TOWNNAME": "白沙鄉",
+      "name": "澎湖縣/白沙鄉"
+    },
+    "townName": "白沙鄉",
+    "countyName": "澎湖縣",
+    "point": [
+      119.60931310687137,
+      23.713414199924784
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10005009",
+      "TOWNID": "1000514",
+      "COUNTYNAME": "苗栗縣",
+      "TOWNNAME": "西湖鄉",
+      "name": "苗栗縣/西湖鄉"
+    },
+    "townName": "西湖鄉",
+    "countyName": "苗栗縣",
+    "point": [
+      120.76089680690106,
+      24.53748782628442
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10003011",
+      "TOWNID": "1000303",
+      "COUNTYNAME": "桃園縣",
+      "TOWNNAME": "大溪鎮",
+      "name": "桃園縣/大溪鎮"
+    },
+    "townName": "大溪鎮",
+    "countyName": "桃園縣",
+    "point": [
+      121.30544878733701,
+      24.869142529033287
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "63000012",
+      "TOWNID": "6300008",
+      "COUNTYNAME": "台北市",
+      "TOWNNAME": "文山區",
+      "name": "台北市/文山區"
+    },
+    "townName": "文山區",
+    "countyName": "台北市",
+    "point": [
+      121.57764766395701,
+      24.987334375588517
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10005001",
+      "TOWNID": "1000504",
+      "COUNTYNAME": "苗栗縣",
+      "TOWNNAME": "竹南鎮",
+      "name": "苗栗縣/竹南鎮"
+    },
+    "townName": "竹南鎮",
+    "countyName": "苗栗縣",
+    "point": [
+      120.8840332607255,
+      24.700789044363113
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10002064",
+      "TOWNID": "1000211",
+      "COUNTYNAME": "宜蘭縣",
+      "TOWNNAME": "大同鄉",
+      "name": "宜蘭縣/大同鄉"
+    },
+    "townName": "大同鄉",
+    "countyName": "宜蘭縣",
+    "point": [
+      121.53728688148712,
+      24.564786507019996
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001034",
+      "TOWNID": "1000123",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "八里區",
+      "name": "新北市/八里區"
+    },
+    "townName": "八里區",
+    "countyName": "新北市",
+    "point": [
+      121.40110556461703,
+      25.119963698075242
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009008",
+      "TOWNID": "1000909",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "莿桐鄉",
+      "name": "雲林縣/莿桐鄉"
+    },
+    "townName": "莿桐鄉",
+    "countyName": "雲林縣",
+    "point": [
+      120.5406490380772,
+      23.768420453656272
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006016",
+      "TOWNID": "1000605",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "沙鹿區",
+      "name": "台中市/沙鹿區"
+    },
+    "townName": "沙鹿區",
+    "countyName": "台中市",
+    "point": [
+      120.57917521959298,
+      24.22821418614819
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011030",
+      "TOWNID": "1001129",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "關廟區",
+      "name": "台南市/關廟區"
+    },
+    "townName": "關廟區",
+    "countyName": "台南市",
+    "point": [
+      120.34217324638769,
+      22.950163067603132
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10018003",
+      "TOWNID": "1001803",
+      "COUNTYNAME": "新竹市",
+      "TOWNNAME": "香山區",
+      "name": "新竹市/香山區"
+    },
+    "townName": "香山區",
+    "countyName": "新竹市",
+    "point": [
+      120.92093093594525,
+      24.75945964657641
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "64000011",
+      "TOWNID": "6400009",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "前鎮區(海)",
+      "name": "高雄市/前鎮區(海)"
+    },
+    "townName": "前鎮區(海)",
+    "countyName": "高雄市",
+    "point": [
+      120.30107800997688,
+      22.585406181223977
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "64000004",
+      "TOWNID": "6400002",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "鼓山區",
+      "name": "高雄市/鼓山區"
+    },
+    "townName": "鼓山區",
+    "countyName": "高雄市",
+    "point": [
+      120.27136165105115,
+      22.64379918534319
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10008001",
+      "TOWNID": "1000813",
+      "COUNTYNAME": "南投縣",
+      "TOWNNAME": "仁愛鄉",
+      "name": "南投縣/仁愛鄉"
+    },
+    "townName": "仁愛鄉",
+    "countyName": "南投縣",
+    "point": [
+      121.11913181595138,
+      24.027279781826632
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009021",
+      "TOWNID": "1000917",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "元長鄉",
+      "name": "雲林縣/元長鄉"
+    },
+    "townName": "元長鄉",
+    "countyName": "雲林縣",
+    "point": [
+      120.323647469133,
+      23.64986653325079
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011016",
+      "TOWNID": "1001111",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "大內區",
+      "name": "台南市/大內區"
+    },
+    "townName": "大內區",
+    "countyName": "台南市",
+    "point": [
+      120.40615885111073,
+      23.149174664256023
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012015",
+      "TOWNID": "1001216",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "永安區",
+      "name": "高雄市/永安區"
+    },
+    "townName": "永安區",
+    "countyName": "高雄市",
+    "point": [
+      120.22723649481334,
+      22.82144112640257
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006001",
+      "TOWNID": "1000603",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "大甲區",
+      "name": "台中市/大甲區"
+    },
+    "townName": "大甲區",
+    "countyName": "台中市",
+    "point": [
+      120.62725858611594,
+      24.37877775204457
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10015009",
+      "TOWNID": "1001508",
+      "COUNTYNAME": "花蓮縣",
+      "TOWNNAME": "豐濱鄉",
+      "name": "花蓮縣/豐濱鄉"
+    },
+    "townName": "豐濱鄉",
+    "countyName": "花蓮縣",
+    "point": [
+      121.50565418713573,
+      23.575486498552475
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009020",
+      "TOWNID": "1000918",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "四湖鄉",
+      "name": "雲林縣/四湖鄉"
+    },
+    "townName": "四湖鄉",
+    "countyName": "雲林縣",
+    "point": [
+      120.21166134012046,
+      23.643171651939284
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10004011",
+      "TOWNID": "1000411",
+      "COUNTYNAME": "新竹縣",
+      "TOWNNAME": "峨眉鄉",
+      "name": "新竹縣/峨眉鄉"
+    },
+    "townName": "峨眉鄉",
+    "countyName": "新竹縣",
+    "point": [
+      121.0092908098542,
+      24.680676555304217
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011013",
+      "TOWNID": "1001107",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "麻豆區",
+      "name": "台南市/麻豆區"
+    },
+    "townName": "麻豆區",
+    "countyName": "台南市",
+    "point": [
+      120.23664871919748,
+      23.186262860875555
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10010003",
+      "TOWNID": "1001007",
+      "COUNTYNAME": "嘉義縣",
+      "TOWNNAME": "新港鄉",
+      "name": "嘉義縣/新港鄉"
+    },
+    "townName": "新港鄉",
+    "countyName": "嘉義縣",
+    "point": [
+      120.35454153839144,
+      23.54082270499135
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "64000007",
+      "TOWNID": "6400001",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "鹽埕區",
+      "name": "高雄市/鹽埕區"
+    },
+    "townName": "鹽埕區",
+    "countyName": "高雄市",
+    "point": [
+      120.28350684232385,
+      22.624387300598052
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "64000010",
+      "TOWNID": "6400009",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "前鎮區",
+      "name": "高雄市/前鎮區"
+    },
+    "townName": "前鎮區",
+    "countyName": "高雄市",
+    "point": [
+      120.31698062411868,
+      22.589347976010565
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012017",
+      "TOWNID": "1001210",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "燕巢區",
+      "name": "高雄市/燕巢區"
+    },
+    "townName": "燕巢區",
+    "countyName": "高雄市",
+    "point": [
+      120.3698624876221,
+      22.78846892258234
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001072",
+      "TOWNID": "1000118",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "深坑區",
+      "name": "新北市/深坑區"
+    },
+    "townName": "深坑區",
+    "countyName": "新北市",
+    "point": [
+      121.62279261601928,
+      24.999799161264104
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011011",
+      "TOWNID": "1001116",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "將軍區",
+      "name": "台南市/將軍區"
+    },
+    "townName": "將軍區",
+    "countyName": "台南市",
+    "point": [
+      120.10892395617236,
+      23.207306511304562
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007005",
+      "TOWNID": "1000707",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "秀水鄉",
+      "name": "彰化縣/秀水鄉"
+    },
+    "townName": "秀水鄉",
+    "countyName": "彰化縣",
+    "point": [
+      120.5045351565285,
+      24.028170918748366
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10010025",
+      "TOWNID": "1001010",
+      "COUNTYNAME": "嘉義縣",
+      "TOWNNAME": "義竹鄉",
+      "name": "嘉義縣/義竹鄉"
+    },
+    "townName": "義竹鄉",
+    "countyName": "嘉義縣",
+    "point": [
+      120.22866283206184,
+      23.349817383631766
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011019",
+      "TOWNID": "1001114",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "西港區",
+      "name": "台南市/西港區"
+    },
+    "townName": "西港區",
+    "countyName": "台南市",
+    "point": [
+      120.2028626098472,
+      23.1253789246597
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011020",
+      "TOWNID": "1001115",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "七股區",
+      "name": "台南市/七股區"
+    },
+    "townName": "七股區",
+    "countyName": "台南市",
+    "point": [
+      120.10873474223672,
+      23.141283347345933
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007012",
+      "TOWNID": "1000710",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "員林鎮",
+      "name": "彰化縣/員林鎮"
+    },
+    "townName": "員林鎮",
+    "countyName": "彰化縣",
+    "point": [
+      120.60409584466939,
+      23.960216279930666
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "64000015",
+      "TOWNID": "6400011",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "小港區(海)",
+      "name": "高雄市/小港區(海)"
+    },
+    "townName": "小港區(海)",
+    "countyName": "高雄市",
+    "point": [
+      120.32990636568063,
+      22.547370894074298
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007003",
+      "TOWNID": "1000703",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "和美鎮",
+      "name": "彰化縣/和美鎮"
+    },
+    "townName": "和美鎮",
+    "countyName": "彰化縣",
+    "point": [
+      120.5047327492128,
+      24.109380149228333
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "09007033",
+      "TOWNID": "0900701",
+      "COUNTYNAME": "連江縣",
+      "TOWNNAME": "南竿鄉",
+      "name": "連江縣/南竿鄉"
+    },
+    "townName": "南竿鄉",
+    "countyName": "連江縣",
+    "point": [
+      119.95270882214434,
+      26.156944637399967
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009022",
+      "TOWNID": "1000908",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "大埤鄉",
+      "name": "雲林縣/大埤鄉"
+    },
+    "townName": "大埤鄉",
+    "countyName": "雲林縣",
+    "point": [
+      120.42775295220615,
+      23.6427612138418
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006005",
+      "TOWNID": "1000604",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "清水區",
+      "name": "台中市/清水區"
+    },
+    "townName": "清水區",
+    "countyName": "台中市",
+    "point": [
+      120.55021659688472,
+      24.30231280770951
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001001",
+      "TOWNID": "1000122",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "石門區",
+      "name": "新北市/石門區"
+    },
+    "townName": "石門區",
+    "countyName": "新北市",
+    "point": [
+      121.54805060915616,
+      25.27606432434527
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10002049",
+      "TOWNID": "1000206",
+      "COUNTYNAME": "宜蘭縣",
+      "TOWNNAME": "壯圍鄉",
+      "name": "宜蘭縣/壯圍鄉"
+    },
+    "townName": "壯圍鄉",
+    "countyName": "宜蘭縣",
+    "point": [
+      121.80969365485342,
+      24.76032377375231
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012022",
+      "TOWNID": "1001204",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "大樹區",
+      "name": "高雄市/大樹區"
+    },
+    "townName": "大樹區",
+    "countyName": "高雄市",
+    "point": [
+      120.41352156122079,
+      22.710474962778818
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012016",
+      "TOWNID": "1001208",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "岡山區",
+      "name": "高雄市/岡山區"
+    },
+    "townName": "岡山區",
+    "countyName": "高雄市",
+    "point": [
+      120.30316966041819,
+      22.80571960819026
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011028",
+      "TOWNID": "1001130",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "龍崎區",
+      "name": "台南市/龍崎區"
+    },
+    "townName": "龍崎區",
+    "countyName": "台南市",
+    "point": [
+      120.38084667339372,
+      22.957068088273278
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012025",
+      "TOWNID": "1001201",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "鳳山區",
+      "name": "高雄市/鳳山區"
+    },
+    "townName": "鳳山區",
+    "countyName": "高雄市",
+    "point": [
+      120.35525830209447,
+      22.61382599024342
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007018",
+      "TOWNID": "1000721",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "田尾鄉",
+      "name": "彰化縣/田尾鄉"
+    },
+    "townName": "田尾鄉",
+    "countyName": "彰化縣",
+    "point": [
+      120.52394999153083,
+      23.899756862259153
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001067",
+      "TOWNID": "1000104",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "永和區",
+      "name": "新北市/永和區"
+    },
+    "townName": "永和區",
+    "countyName": "新北市",
+    "point": [
+      121.51278843370902,
+      25.004962202332454
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009005",
+      "TOWNID": "1000911",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "二崙鄉",
+      "name": "雲林縣/二崙鄉"
+    },
+    "townName": "二崙鄉",
+    "countyName": "雲林縣",
+    "point": [
+      120.39996961118514,
+      23.78426223594054
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001017",
+      "TOWNID": "1000128",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "萬里區",
+      "name": "新北市/萬里區"
+    },
+    "townName": "萬里區",
+    "countyName": "新北市",
+    "point": [
+      121.67135262128825,
+      25.190335877871146
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013036",
+      "TOWNID": "1001304",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "恆春鎮",
+      "name": "屏東縣/恆春鎮"
+    },
+    "townName": "恆春鎮",
+    "countyName": "屏東縣",
+    "point": [
+      120.77855423560871,
+      21.97298748135052
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011003",
+      "TOWNID": "1001102",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "鹽水區",
+      "name": "台南市/鹽水區"
+    },
+    "townName": "鹽水區",
+    "countyName": "台南市",
+    "point": [
+      120.24984927618802,
+      23.298125182867572
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10002051",
+      "TOWNID": "1000207",
+      "COUNTYNAME": "宜蘭縣",
+      "TOWNNAME": "員山鄉",
+      "name": "宜蘭縣/員山鄉"
+    },
+    "townName": "員山鄉",
+    "countyName": "宜蘭縣",
+    "point": [
+      121.66018812610693,
+      24.741215579019293
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10005011",
+      "TOWNID": "1000509",
+      "COUNTYNAME": "苗栗縣",
+      "TOWNNAME": "公館鄉",
+      "name": "苗栗縣/公館鄉"
+    },
+    "townName": "公館鄉",
+    "countyName": "苗栗縣",
+    "point": [
+      120.85690078900146,
+      24.503392449522966
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012026",
+      "TOWNID": "1001203",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "大寮區",
+      "name": "高雄市/大寮區"
+    },
+    "townName": "大寮區",
+    "countyName": "高雄市",
+    "point": [
+      120.39545140682773,
+      22.587974803285473
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001079",
+      "TOWNID": "1000113",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "土城區",
+      "name": "新北市/土城區"
+    },
+    "townName": "土城區",
+    "countyName": "新北市",
+    "point": [
+      121.44986567720944,
+      24.96788243269188
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012021",
+      "TOWNID": "1001205",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "大社區",
+      "name": "高雄市/大社區"
+    },
+    "townName": "大社區",
+    "countyName": "高雄市",
+    "point": [
+      120.37298565837867,
+      22.7408870540205
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10004003",
+      "TOWNID": "1000403",
+      "COUNTYNAME": "新竹縣",
+      "TOWNNAME": "新埔鎮",
+      "name": "新竹縣/新埔鎮"
+    },
+    "townName": "新埔鎮",
+    "countyName": "新竹縣",
+    "point": [
+      121.10420863909225,
+      24.840727565553806
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10003013",
+      "TOWNID": "1000313",
+      "COUNTYNAME": "桃園縣",
+      "TOWNNAME": "復興鄉",
+      "name": "桃園縣/復興鄉"
+    },
+    "townName": "復興鄉",
+    "countyName": "桃園縣",
+    "point": [
+      121.36622820300805,
+      24.739739370751042
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006017",
+      "TOWNID": "1000610",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "大雅區",
+      "name": "台中市/大雅區"
+    },
+    "townName": "大雅區",
+    "countyName": "台中市",
+    "point": [
+      120.6476086828926,
+      24.226279527227806
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011002",
+      "TOWNID": "1001103",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "白河區",
+      "name": "台南市/白河區"
+    },
+    "townName": "白河區",
+    "countyName": "台南市",
+    "point": [
+      120.46362745444871,
+      23.348848425846818
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10002001",
+      "TOWNID": "1000204",
+      "COUNTYNAME": "宜蘭縣",
+      "TOWNNAME": "頭城鎮",
+      "name": "宜蘭縣/頭城鎮"
+    },
+    "townName": "頭城鎮",
+    "countyName": "宜蘭縣",
+    "point": [
+      121.88245327466066,
+      24.915653729022086
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10019005",
+      "TOWNID": "1001901",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "中區",
+      "name": "台中市/中區"
+    },
+    "townName": "中區",
+    "countyName": "台中市",
+    "point": [
+      120.68078689324453,
+      24.143637553073738
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10017026",
+      "TOWNID": "1001704",
+      "COUNTYNAME": "基隆市",
+      "TOWNNAME": "仁愛區(海)",
+      "name": "基隆市/仁愛區(海)"
+    },
+    "townName": "仁愛區(海)",
+    "countyName": "基隆市",
+    "point": [
+      121.74170932203627,
+      25.13135901973083
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "63000007",
+      "TOWNID": "6300009",
+      "COUNTYNAME": "台北市",
+      "TOWNNAME": "南港區",
+      "name": "台北市/南港區"
+    },
+    "townName": "南港區",
+    "countyName": "台北市",
+    "point": [
+      121.61925578630243,
+      25.031880622294945
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10010002",
+      "TOWNID": "1001004",
+      "COUNTYNAME": "嘉義縣",
+      "TOWNNAME": "大林鎮",
+      "name": "嘉義縣/大林鎮"
+    },
+    "townName": "大林鎮",
+    "countyName": "嘉義縣",
+    "point": [
+      120.48204914425406,
+      23.593382109678778
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013009",
+      "TOWNID": "1001301",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "屏東市",
+      "name": "屏東縣/屏東市"
+    },
+    "townName": "屏東市",
+    "countyName": "屏東縣",
+    "point": [
+      120.49224049501903,
+      22.667034389331487
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012012",
+      "TOWNID": "1001212",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "阿蓮區",
+      "name": "高雄市/阿蓮區"
+    },
+    "townName": "阿蓮區",
+    "countyName": "高雄市",
+    "point": [
+      120.32164064660817,
+      22.86923294459463
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10019004",
+      "TOWNID": "1001904",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "西區",
+      "name": "台中市/西區"
+    },
+    "townName": "西區",
+    "countyName": "台中市",
+    "point": [
+      120.6615825343436,
+      24.148237820204024
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10014020",
+      "TOWNID": "1001412",
+      "COUNTYNAME": "台東縣",
+      "TOWNNAME": "海端鄉",
+      "name": "台東縣/海端鄉"
+    },
+    "townName": "海端鄉",
+    "countyName": "台東縣",
+    "point": [
+      121.03093198508708,
+      23.102801908853902
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10003006",
+      "TOWNID": "1000302",
+      "COUNTYNAME": "桃園縣",
+      "TOWNNAME": "中壢市",
+      "name": "桃園縣/中壢市"
+    },
+    "townName": "中壢市",
+    "countyName": "桃園縣",
+    "point": [
+      121.21029073428517,
+      24.987842469277382
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10004010",
+      "TOWNID": "1000409",
+      "COUNTYNAME": "新竹縣",
+      "TOWNNAME": "北埔鄉",
+      "name": "新竹縣/北埔鄉"
+    },
+    "townName": "北埔鄉",
+    "countyName": "新竹縣",
+    "point": [
+      121.06354375053765,
+      24.677719680716166
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001071",
+      "TOWNID": "1000125",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "雙溪區",
+      "name": "新北市/雙溪區"
+    },
+    "townName": "雙溪區",
+    "countyName": "新北市",
+    "point": [
+      121.83358020655959,
+      24.996444286662236
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006020",
+      "TOWNID": "1000611",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "新社區",
+      "name": "台中市/新社區"
+    },
+    "townName": "新社區",
+    "countyName": "台中市",
+    "point": [
+      120.82668607947063,
+      24.18138919502073
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012008",
+      "TOWNID": "1001220",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "美濃區",
+      "name": "高雄市/美濃區"
+    },
+    "townName": "美濃區",
+    "countyName": "高雄市",
+    "point": [
+      120.56335010657928,
+      22.90610650228873
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "64000002",
+      "TOWNID": "6400003",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "左營區",
+      "name": "高雄市/左營區"
+    },
+    "townName": "左營區",
+    "countyName": "高雄市",
+    "point": [
+      120.29346920537458,
+      22.679666192737752
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001081",
+      "TOWNID": "1000119",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "石碇區",
+      "name": "新北市/石碇區"
+    },
+    "townName": "石碇區",
+    "countyName": "新北市",
+    "point": [
+      121.64985629933075,
+      24.95316077515718
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10014043",
+      "TOWNID": "1001406",
+      "COUNTYNAME": "台東縣",
+      "TOWNNAME": "池上鄉",
+      "name": "台東縣/池上鄉"
+    },
+    "townName": "池上鄉",
+    "countyName": "台東縣",
+    "point": [
+      121.21705651035334,
+      23.08856685685941
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013006",
+      "TOWNID": "1001308",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "九如鄉",
+      "name": "屏東縣/九如鄉"
+    },
+    "townName": "九如鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.48934944887817,
+      22.729519933403086
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006009",
+      "TOWNID": "1000621",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "和平區",
+      "name": "台中市/和平區"
+    },
+    "townName": "和平區",
+    "countyName": "台中市",
+    "point": [
+      121.12552678210808,
+      24.271209075861023
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10005007",
+      "TOWNID": "1000511",
+      "COUNTYNAME": "苗栗縣",
+      "TOWNNAME": "南庄鄉",
+      "name": "苗栗縣/南庄鄉"
+    },
+    "townName": "南庄鄉",
+    "countyName": "苗栗縣",
+    "point": [
+      121.0076418827393,
+      24.57718026215371
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012006",
+      "TOWNID": "1001224",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "內門區",
+      "name": "高雄市/內門區"
+    },
+    "townName": "內門區",
+    "countyName": "高雄市",
+    "point": [
+      120.47054326283052,
+      22.950984231587945
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013021",
+      "TOWNID": "1001320",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "南州鄉",
+      "name": "屏東縣/南州鄉"
+    },
+    "townName": "南州鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.51708343226319,
+      22.481548863523656
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009007",
+      "TOWNID": "1000904",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "西螺鎮",
+      "name": "雲林縣/西螺鎮"
+    },
+    "townName": "西螺鎮",
+    "countyName": "雲林縣",
+    "point": [
+      120.44909397200928,
+      23.78083214238934
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007002",
+      "TOWNID": "1000704",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "線西鄉",
+      "name": "彰化縣/線西鄉"
+    },
+    "townName": "線西鄉",
+    "countyName": "彰化縣",
+    "point": [
+      120.45911482812636,
+      24.123320112875508
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011006",
+      "TOWNID": "1001106",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "東山區",
+      "name": "台南市/東山區"
+    },
+    "townName": "東山區",
+    "countyName": "台南市",
+    "point": [
+      120.43376710415107,
+      23.28587381016608
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007030",
+      "TOWNID": "1000726",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "溪州鄉",
+      "name": "彰化縣/溪州鄉"
+    },
+    "townName": "溪州鄉",
+    "countyName": "彰化縣",
+    "point": [
+      120.52077418340514,
+      23.834658606225354
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10017029",
+      "TOWNID": "1001702",
+      "COUNTYNAME": "基隆市",
+      "TOWNNAME": "七堵區",
+      "name": "基隆市/七堵區"
+    },
+    "townName": "七堵區",
+    "countyName": "基隆市",
+    "point": [
+      121.68504290257016,
+      25.109453128893048
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013004",
+      "TOWNID": "1001327",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "霧台鄉",
+      "name": "屏東縣/霧台鄉"
+    },
+    "townName": "霧台鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.79346564648336,
+      22.756767002418727
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012023",
+      "TOWNID": "1001206",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "仁武區",
+      "name": "高雄市/仁武區"
+    },
+    "townName": "仁武區",
+    "countyName": "高雄市",
+    "point": [
+      120.3632095989523,
+      22.703401403994214
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009001",
+      "TOWNID": "1000913",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "麥寮鄉",
+      "name": "雲林縣/麥寮鄉"
+    },
+    "townName": "麥寮鄉",
+    "countyName": "雲林縣",
+    "point": [
+      120.21215064106923,
+      23.794255868767564
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013008",
+      "TOWNID": "1001328",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "瑪家鄉",
+      "name": "屏東縣/瑪家鄉"
+    },
+    "townName": "瑪家鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.67181075682595,
+      22.66600934105014
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10018002",
+      "TOWNID": "1001801",
+      "COUNTYNAME": "新竹市",
+      "TOWNNAME": "東區",
+      "name": "新竹市/東區"
+    },
+    "townName": "東區",
+    "countyName": "新竹市",
+    "point": [
+      120.99421154745514,
+      24.780062357497073
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012020",
+      "TOWNID": "1001218",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "梓官區",
+      "name": "高雄市/梓官區"
+    },
+    "townName": "梓官區",
+    "countyName": "高雄市",
+    "point": [
+      120.2587326616497,
+      22.74855763939083
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "16116",
+      "TOWNID": "1605",
+      "COUNTYNAME": "澎湖縣",
+      "TOWNNAME": "望安鄉",
+      "name": "澎湖縣/望安鄉"
+    },
+    "townName": "望安鄉",
+    "countyName": "澎湖縣",
+    "point": [
+      119.51528644218747,
+      23.32698656832077
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "63000002",
+      "TOWNID": "6300011",
+      "COUNTYNAME": "台北市",
+      "TOWNNAME": "士林區",
+      "name": "台北市/士林區"
+    },
+    "townName": "士林區",
+    "countyName": "台北市",
+    "point": [
+      121.55513852239068,
+      25.134693525634294
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006014",
+      "TOWNID": "1000606",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "梧棲區",
+      "name": "台中市/梧棲區"
+    },
+    "townName": "梧棲區",
+    "countyName": "台中市",
+    "point": [
+      120.52031167878992,
+      24.254458581016024
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10008013",
+      "TOWNID": "1000812",
+      "COUNTYNAME": "南投縣",
+      "TOWNNAME": "信義鄉",
+      "name": "南投縣/信義鄉"
+    },
+    "townName": "信義鄉",
+    "countyName": "南投縣",
+    "point": [
+      121.01990042116414,
+      23.65775383234757
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "63000003",
+      "TOWNID": "6300010",
+      "COUNTYNAME": "台北市",
+      "TOWNNAME": "內湖區",
+      "name": "台北市/內湖區"
+    },
+    "townName": "內湖區",
+    "countyName": "台北市",
+    "point": [
+      121.59624826601079,
+      25.086459135938007
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007024",
+      "TOWNID": "1000719",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "北斗鎮",
+      "name": "彰化縣/北斗鎮"
+    },
+    "townName": "北斗鎮",
+    "countyName": "彰化縣",
+    "point": [
+      120.53202138439515,
+      23.868078326051503
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10010015",
+      "TOWNID": "1001018",
+      "COUNTYNAME": "嘉義縣",
+      "TOWNNAME": "阿里山鄉",
+      "name": "嘉義縣/阿里山鄉"
+    },
+    "townName": "阿里山鄉",
+    "countyName": "嘉義縣",
+    "point": [
+      120.77421772748903,
+      23.43426019292426
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "09020016",
+      "TOWNID": "0902005",
+      "COUNTYNAME": "金門縣",
+      "TOWNNAME": "烈嶼鄉",
+      "name": "金門縣/烈嶼鄉"
+    },
+    "townName": "烈嶼鄉",
+    "countyName": "金門縣",
+    "point": [
+      118.23865962241887,
+      24.426488380020082
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "64000008",
+      "TOWNID": "6400008",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "苓雅區",
+      "name": "高雄市/苓雅區"
+    },
+    "townName": "苓雅區",
+    "countyName": "高雄市",
+    "point": [
+      120.32390328370695,
+      22.623937592175167
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007007",
+      "TOWNID": "1000706",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "福興鄉",
+      "name": "彰化縣/福興鄉"
+    },
+    "townName": "福興鄉",
+    "countyName": "彰化縣",
+    "point": [
+      120.44075080266192,
+      24.0294117735808
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006023",
+      "TOWNID": "1000620",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "大里區",
+      "name": "台中市/大里區"
+    },
+    "townName": "大里區",
+    "countyName": "台中市",
+    "point": [
+      120.69353380707955,
+      24.09577267657189
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001052",
+      "TOWNID": "1000111",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "汐止區",
+      "name": "新北市/汐止區"
+    },
+    "townName": "汐止區",
+    "countyName": "新北市",
+    "point": [
+      121.65358323722334,
+      25.07421375215585
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10005005",
+      "TOWNID": "1000506",
+      "COUNTYNAME": "苗栗縣",
+      "TOWNNAME": "後龍鎮",
+      "name": "苗栗縣/後龍鎮"
+    },
+    "townName": "後龍鎮",
+    "countyName": "苗栗縣",
+    "point": [
+      120.77714687145702,
+      24.616575778922446
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006004",
+      "TOWNID": "1000607",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "后里區",
+      "name": "台中市/后里區"
+    },
+    "townName": "后里區",
+    "countyName": "台中市",
+    "point": [
+      120.72424061021327,
+      24.317346592469747
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10014001",
+      "TOWNID": "1001408",
+      "COUNTYNAME": "台東縣",
+      "TOWNNAME": "長濱鄉",
+      "name": "台東縣/長濱鄉"
+    },
+    "townName": "長濱鄉",
+    "countyName": "台東縣",
+    "point": [
+      121.42178790875703,
+      23.294393642878546
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007015",
+      "TOWNID": "1000720",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "二林鎮",
+      "name": "彰化縣/二林鎮"
+    },
+    "townName": "二林鎮",
+    "countyName": "彰化縣",
+    "point": [
+      120.39436254976145,
+      23.906254665446077
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10018001",
+      "TOWNID": "1001802",
+      "COUNTYNAME": "新竹市",
+      "TOWNNAME": "北區",
+      "name": "新竹市/北區"
+    },
+    "townName": "北區",
+    "countyName": "新竹市",
+    "point": [
+      120.94383122959276,
+      24.826926680181984
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10015003",
+      "TOWNID": "1001501",
+      "COUNTYNAME": "花蓮縣",
+      "TOWNNAME": "花蓮市",
+      "name": "花蓮縣/花蓮市"
+    },
+    "townName": "花蓮市",
+    "countyName": "花蓮縣",
+    "point": [
+      121.60872108904317,
+      23.999322066919223
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10019006",
+      "TOWNID": "1001907",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "南屯區",
+      "name": "台中市/南屯區"
+    },
+    "townName": "南屯區",
+    "countyName": "台中市",
+    "point": [
+      120.62564421478609,
+      24.142438562109444
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10004001",
+      "TOWNID": "1000406",
+      "COUNTYNAME": "新竹縣",
+      "TOWNNAME": "新豐鄉",
+      "name": "新竹縣/新豐鄉"
+    },
+    "townName": "新豐鄉",
+    "countyName": "新竹縣",
+    "point": [
+      120.99411181350602,
+      24.90743289322784
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006025",
+      "TOWNID": "1000618",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "霧峰區",
+      "name": "台中市/霧峰區"
+    },
+    "townName": "霧峰區",
+    "countyName": "台中市",
+    "point": [
+      120.72116788978103,
+      24.051238321513832
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013023",
+      "TOWNID": "1001319",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "林邊鄉",
+      "name": "屏東縣/林邊鄉"
+    },
+    "townName": "林邊鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.50751767569403,
+      22.43728879575269
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011001",
+      "TOWNID": "1001105",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "後壁區",
+      "name": "台南市/後壁區"
+    },
+    "townName": "後壁區",
+    "countyName": "台南市",
+    "point": [
+      120.34823383385408,
+      23.353390971839104
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10008004",
+      "TOWNID": "1000802",
+      "COUNTYNAME": "南投縣",
+      "TOWNNAME": "埔里鎮",
+      "name": "南投縣/埔里鎮"
+    },
+    "townName": "埔里鎮",
+    "countyName": "南投縣",
+    "point": [
+      120.96638813440725,
+      23.965769613086895
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10002053",
+      "TOWNID": "1000209",
+      "COUNTYNAME": "宜蘭縣",
+      "TOWNNAME": "五結鄉",
+      "name": "宜蘭縣/五結鄉"
+    },
+    "townName": "五結鄉",
+    "countyName": "宜蘭縣",
+    "point": [
+      121.80637596854115,
+      24.684891122037595
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "63000001",
+      "TOWNID": "6300012",
+      "COUNTYNAME": "台北市",
+      "TOWNNAME": "北投區",
+      "name": "台北市/北投區"
+    },
+    "townName": "北投區",
+    "countyName": "台北市",
+    "point": [
+      121.52774193292451,
+      25.15749656207161
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10003003",
+      "TOWNID": "1000312",
+      "COUNTYNAME": "桃園縣",
+      "TOWNNAME": "觀音鄉",
+      "name": "桃園縣/觀音鄉"
+    },
+    "townName": "觀音鄉",
+    "countyName": "桃園縣",
+    "point": [
+      121.09840759838565,
+      25.030512048471063
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013003",
+      "TOWNID": "1001326",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "三地門鄉",
+      "name": "屏東縣/三地門鄉"
+    },
+    "townName": "三地門鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.67814853629947,
+      22.78946485019678
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "63000004",
+      "TOWNID": "6300004",
+      "COUNTYNAME": "台北市",
+      "TOWNNAME": "中山區",
+      "name": "台北市/中山區"
+    },
+    "townName": "中山區",
+    "countyName": "台北市",
+    "point": [
+      121.54209551173038,
+      25.07617045812406
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10005015",
+      "TOWNID": "1000510",
+      "COUNTYNAME": "苗栗縣",
+      "TOWNNAME": "銅鑼鄉",
+      "name": "苗栗縣/銅鑼鄉"
+    },
+    "townName": "銅鑼鄉",
+    "countyName": "苗栗縣",
+    "point": [
+      120.7986237066819,
+      24.456114471505394
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "09007001",
+      "TOWNID": "0900702",
+      "COUNTYNAME": "連江縣",
+      "TOWNNAME": "北竿鄉",
+      "name": "連江縣/北竿鄉"
+    },
+    "townName": "北竿鄉",
+    "countyName": "連江縣",
+    "point": [
+      120.00263048234537,
+      26.22641720718183
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10005016",
+      "TOWNID": "1000502",
+      "COUNTYNAME": "苗栗縣",
+      "TOWNNAME": "苑裡鎮",
+      "name": "苗栗縣/苑裡鎮"
+    },
+    "townName": "苑裡鎮",
+    "countyName": "苗栗縣",
+    "point": [
+      120.67072174890966,
+      24.426485744921138
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001082",
+      "TOWNID": "1000106",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "新店區",
+      "name": "新北市/新店區"
+    },
+    "townName": "新店區",
+    "countyName": "新北市",
+    "point": [
+      121.53127606173658,
+      24.929207746856097
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012014",
+      "TOWNID": "1001213",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "路竹區",
+      "name": "高雄市/路竹區"
+    },
+    "townName": "路竹區",
+    "countyName": "高雄市",
+    "point": [
+      120.26772337694136,
+      22.860365034866607
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011027",
+      "TOWNID": "1001126",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "左鎮區",
+      "name": "台南市/左鎮區"
+    },
+    "townName": "左鎮區",
+    "countyName": "台南市",
+    "point": [
+      120.40828935576401,
+      23.033232576392013
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10003009",
+      "TOWNID": "1000310",
+      "COUNTYNAME": "桃園縣",
+      "TOWNNAME": "平鎮市",
+      "name": "桃園縣/平鎮市"
+    },
+    "townName": "平鎮市",
+    "countyName": "桃園縣",
+    "point": [
+      121.21579798829328,
+      24.916104866390086
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001030",
+      "TOWNID": "1000110",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "淡水區",
+      "name": "新北市/淡水區"
+    },
+    "townName": "淡水區",
+    "countyName": "新北市",
+    "point": [
+      121.46607265960476,
+      25.196549266555934
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013030",
+      "TOWNID": "1001333",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "牡丹鄉",
+      "name": "屏東縣/牡丹鄉"
+    },
+    "townName": "牡丹鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.83228634499284,
+      22.161136956250527
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006015",
+      "TOWNID": "1000602",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "東勢區",
+      "name": "台中市/東勢區"
+    },
+    "townName": "東勢區",
+    "countyName": "台中市",
+    "point": [
+      120.83825362843338,
+      24.25747671943972
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011015",
+      "TOWNID": "1001112",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "佳里區",
+      "name": "台南市/佳里區"
+    },
+    "townName": "佳里區",
+    "countyName": "台南市",
+    "point": [
+      120.17638340317653,
+      23.170365970476738
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10014053",
+      "TOWNID": "1001404",
+      "COUNTYNAME": "台東縣",
+      "TOWNNAME": "卑南鄉",
+      "name": "台東縣/卑南鄉"
+    },
+    "townName": "卑南鄉",
+    "countyName": "台東縣",
+    "point": [
+      121.03866190734689,
+      22.771264050511114
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "63000009",
+      "TOWNID": "6300005",
+      "COUNTYNAME": "台北市",
+      "TOWNNAME": "中正區",
+      "name": "台北市/中正區"
+    },
+    "townName": "中正區",
+    "countyName": "台北市",
+    "point": [
+      121.51997057824751,
+      25.029597077720677
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013012",
+      "TOWNID": "1001329",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "泰武鄉",
+      "name": "屏東縣/泰武鄉"
+    },
+    "townName": "泰武鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.65845078382162,
+      22.59295742491812
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007014",
+      "TOWNID": "1000711",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "溪湖鎮",
+      "name": "彰化縣/溪湖鎮"
+    },
+    "townName": "溪湖鎮",
+    "countyName": "彰化縣",
+    "point": [
+      120.48772219031319,
+      23.952167686599015
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10021001",
+      "TOWNID": "1002106",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "安南區",
+      "name": "台南市/安南區"
+    },
+    "townName": "安南區",
+    "countyName": "台南市",
+    "point": [
+      120.16642339986791,
+      23.04532683255985
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10015005",
+      "TOWNID": "1001506",
+      "COUNTYNAME": "花蓮縣",
+      "TOWNNAME": "壽豐鄉",
+      "name": "花蓮縣/壽豐鄉"
+    },
+    "townName": "壽豐鄉",
+    "countyName": "花蓮縣",
+    "point": [
+      121.54008847601662,
+      23.840820710284724
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10014048",
+      "TOWNID": "1001407",
+      "COUNTYNAME": "台東縣",
+      "TOWNNAME": "東河鄉",
+      "name": "台東縣/東河鄉"
+    },
+    "townName": "東河鄉",
+    "countyName": "台東縣",
+    "point": [
+      121.25001461510122,
+      22.967672960801313
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10002054",
+      "TOWNID": "1000210",
+      "COUNTYNAME": "宜蘭縣",
+      "TOWNNAME": "三星鄉",
+      "name": "宜蘭縣/三星鄉"
+    },
+    "townName": "三星鄉",
+    "countyName": "宜蘭縣",
+    "point": [
+      121.66968106083182,
+      24.66371459123529
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013028",
+      "TOWNID": "1001325",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "枋山鄉",
+      "name": "屏東縣/枋山鄉"
+    },
+    "townName": "枋山鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.66933635796404,
+      22.24655227271401
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "64000012",
+      "TOWNID": "6400010",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "旗津區(海)",
+      "name": "高雄市/旗津區(海)"
+    },
+    "townName": "旗津區(海)",
+    "countyName": "高雄市",
+    "point": [
+      120.28607420038355,
+      22.59244548449181
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009015",
+      "TOWNID": "1000903",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "虎尾鎮",
+      "name": "雲林縣/虎尾鎮"
+    },
+    "townName": "虎尾鎮",
+    "countyName": "雲林縣",
+    "point": [
+      120.43069277892079,
+      23.71409977118238
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011022",
+      "TOWNID": "1001122",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "山上區",
+      "name": "台南市/山上區"
+    },
+    "townName": "山上區",
+    "countyName": "台南市",
+    "point": [
+      120.37470695097706,
+      23.09407271875153
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10010024",
+      "TOWNID": "1001003",
+      "COUNTYNAME": "嘉義縣",
+      "TOWNNAME": "布袋鎮",
+      "name": "嘉義縣/布袋鎮"
+    },
+    "townName": "布袋鎮",
+    "countyName": "嘉義縣",
+    "point": [
+      120.1781096953235,
+      23.386241084182565
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013015",
+      "TOWNID": "1001305",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "萬丹鄉",
+      "name": "屏東縣/萬丹鄉"
+    },
+    "townName": "萬丹鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.4840294685812,
+      22.57799320858329
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10005017",
+      "TOWNID": "1000518",
+      "COUNTYNAME": "苗栗縣",
+      "TOWNNAME": "泰安鄉",
+      "name": "苗栗縣/泰安鄉"
+    },
+    "townName": "泰安鄉",
+    "countyName": "苗栗縣",
+    "point": [
+      121.05761553196687,
+      24.417196231496312
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10002048",
+      "TOWNID": "1000205",
+      "COUNTYNAME": "宜蘭縣",
+      "TOWNNAME": "礁溪鄉",
+      "name": "宜蘭縣/礁溪鄉"
+    },
+    "townName": "礁溪鄉",
+    "countyName": "宜蘭縣",
+    "point": [
+      121.72716376562845,
+      24.810814623898633
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10002069",
+      "TOWNID": "1000212",
+      "COUNTYNAME": "宜蘭縣",
+      "TOWNNAME": "南澳鄉",
+      "name": "宜蘭縣/南澳鄉"
+    },
+    "townName": "南澳鄉",
+    "countyName": "宜蘭縣",
+    "point": [
+      121.668170594134,
+      24.463910035588132
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012003",
+      "TOWNID": "1001222",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "甲仙區",
+      "name": "高雄市/甲仙區"
+    },
+    "townName": "甲仙區",
+    "countyName": "高雄市",
+    "point": [
+      120.61520776211376,
+      23.112989782422204
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013005",
+      "TOWNID": "1001310",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "鹽埔鄉",
+      "name": "屏東縣/鹽埔鄉"
+    },
+    "townName": "鹽埔鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.56301354533898,
+      22.7393645201888
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001080",
+      "TOWNID": "1000108",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "鶯歌區",
+      "name": "新北市/鶯歌區"
+    },
+    "townName": "鶯歌區",
+    "countyName": "新北市",
+    "point": [
+      121.34556954741556,
+      24.961675162159846
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10003005",
+      "TOWNID": "1000301",
+      "COUNTYNAME": "桃園縣",
+      "TOWNNAME": "桃園市",
+      "name": "桃園縣/桃園市"
+    },
+    "townName": "桃園市",
+    "countyName": "桃園縣",
+    "point": [
+      121.29791062059354,
+      24.994248971076644
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10004006",
+      "TOWNID": "1000407",
+      "COUNTYNAME": "新竹縣",
+      "TOWNNAME": "芎林鄉",
+      "name": "新竹縣/芎林鄉"
+    },
+    "townName": "芎林鄉",
+    "countyName": "新竹縣",
+    "point": [
+      121.1036083622921,
+      24.77111319811274
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10015007",
+      "TOWNID": "1001512",
+      "COUNTYNAME": "花蓮縣",
+      "TOWNNAME": "萬榮鄉",
+      "name": "花蓮縣/萬榮鄉"
+    },
+    "townName": "萬榮鄉",
+    "countyName": "花蓮縣",
+    "point": [
+      121.32799729734377,
+      23.703629455491882
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10010008",
+      "TOWNID": "1001009",
+      "COUNTYNAME": "嘉義縣",
+      "TOWNNAME": "東石鄉",
+      "name": "嘉義縣/東石鄉"
+    },
+    "townName": "東石鄉",
+    "countyName": "嘉義縣",
+    "point": [
+      120.16297014133602,
+      23.452439209224067
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011009",
+      "TOWNID": "1001108",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "下營區",
+      "name": "台南市/下營區"
+    },
+    "townName": "下營區",
+    "countyName": "台南市",
+    "point": [
+      120.27510778587224,
+      23.23308601457286
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013001",
+      "TOWNID": "1001311",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "高樹鄉",
+      "name": "屏東縣/高樹鄉"
+    },
+    "townName": "高樹鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.61437676025015,
+      22.798487026034152
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10017024",
+      "TOWNID": "1001706",
+      "COUNTYNAME": "基隆市",
+      "TOWNNAME": "安樂區",
+      "name": "基隆市/安樂區"
+    },
+    "townName": "安樂區",
+    "countyName": "基隆市",
+    "point": [
+      121.70786364980403,
+      25.144887943801077
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10004008",
+      "TOWNID": "1000402",
+      "COUNTYNAME": "新竹縣",
+      "TOWNNAME": "竹東鎮",
+      "name": "新竹縣/竹東鎮"
+    },
+    "townName": "竹東鎮",
+    "countyName": "新竹縣",
+    "point": [
+      121.07226185569637,
+      24.723660609355935
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001076",
+      "TOWNID": "1000103",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "中和區",
+      "name": "新北市/中和區"
+    },
+    "townName": "中和區",
+    "countyName": "新北市",
+    "point": [
+      121.49366831562996,
+      24.989227798983528
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10003008",
+      "TOWNID": "1000308",
+      "COUNTYNAME": "桃園縣",
+      "TOWNNAME": "八德市",
+      "name": "桃園縣/八德市"
+    },
+    "townName": "八德市",
+    "countyName": "桃園縣",
+    "point": [
+      121.2894688616426,
+      24.954288625651
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10014077",
+      "TOWNID": "1001414",
+      "COUNTYNAME": "台東縣",
+      "TOWNNAME": "金峰鄉",
+      "name": "台東縣/金峰鄉"
+    },
+    "townName": "金峰鄉",
+    "countyName": "台東縣",
+    "point": [
+      120.90711988843078,
+      22.59964096670138
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011017",
+      "TOWNID": "1001119",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "善化區",
+      "name": "台南市/善化區"
+    },
+    "townName": "善化區",
+    "countyName": "台南市",
+    "point": [
+      120.29256104787638,
+      23.12708926534277
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013025",
+      "TOWNID": "1001331",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "春日鄉",
+      "name": "屏東縣/春日鄉"
+    },
+    "townName": "春日鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.67414365007618,
+      22.396106577763067
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011024",
+      "TOWNID": "1001120",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "新市區",
+      "name": "台南市/新市區"
+    },
+    "townName": "新市區",
+    "countyName": "台南市",
+    "point": [
+      120.29461540577739,
+      23.08290555026444
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "09020015",
+      "TOWNID": "0902004",
+      "COUNTYNAME": "金門縣",
+      "TOWNNAME": "金寧鄉",
+      "name": "金門縣/金寧鄉"
+    },
+    "townName": "金寧鄉",
+    "countyName": "金門縣",
+    "point": [
+      118.32273676945219,
+      24.462186443445017
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10014049",
+      "TOWNID": "1001405",
+      "COUNTYNAME": "台東縣",
+      "TOWNNAME": "鹿野鄉",
+      "name": "台東縣/鹿野鄉"
+    },
+    "townName": "鹿野鄉",
+    "countyName": "台東縣",
+    "point": [
+      121.15237408198892,
+      22.949331019736395
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10015002",
+      "TOWNID": "1001504",
+      "COUNTYNAME": "花蓮縣",
+      "TOWNNAME": "新城鄉",
+      "name": "花蓮縣/新城鄉"
+    },
+    "townName": "新城鄉",
+    "countyName": "花蓮縣",
+    "point": [
+      121.61184713377513,
+      24.057542372409515
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10020002",
+      "TOWNID": "1002002",
+      "COUNTYNAME": "嘉義市",
+      "TOWNNAME": "西區",
+      "name": "嘉義市/西區"
+    },
+    "townName": "西區",
+    "countyName": "嘉義市",
+    "point": [
+      120.41965989541043,
+      23.47544421899492
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009009",
+      "TOWNID": "1000910",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "林內鄉",
+      "name": "雲林縣/林內鄉"
+    },
+    "townName": "林內鄉",
+    "countyName": "雲林縣",
+    "point": [
+      120.6165722358183,
+      23.740460575450513
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10005002",
+      "TOWNID": "1000505",
+      "COUNTYNAME": "苗栗縣",
+      "TOWNNAME": "頭份鎮",
+      "name": "苗栗縣/頭份鎮"
+    },
+    "townName": "頭份鎮",
+    "countyName": "苗栗縣",
+    "point": [
+      120.92588748030595,
+      24.677796726098034
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "16161",
+      "TOWNID": "1602",
+      "COUNTYNAME": "澎湖縣",
+      "TOWNNAME": "湖西鄉",
+      "name": "澎湖縣/湖西鄉"
+    },
+    "townName": "湖西鄉",
+    "countyName": "澎湖縣",
+    "point": [
+      119.66437111848975,
+      23.587859350564916
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10010023",
+      "TOWNID": "1001013",
+      "COUNTYNAME": "嘉義縣",
+      "TOWNNAME": "中埔鄉",
+      "name": "嘉義縣/中埔鄉"
+    },
+    "townName": "中埔鄉",
+    "countyName": "嘉義縣",
+    "point": [
+      120.52009985375535,
+      23.397815405525794
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10005012",
+      "TOWNID": "1000503",
+      "COUNTYNAME": "苗栗縣",
+      "TOWNNAME": "通霄鎮",
+      "name": "苗栗縣/通霄鎮"
+    },
+    "townName": "通霄鎮",
+    "countyName": "苗栗縣",
+    "point": [
+      120.70591992616394,
+      24.48286887083118
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10014047",
+      "TOWNID": "1001403",
+      "COUNTYNAME": "台東縣",
+      "TOWNNAME": "關山鎮",
+      "name": "台東縣/關山鎮"
+    },
+    "townName": "關山鎮",
+    "countyName": "台東縣",
+    "point": [
+      121.17548341671032,
+      23.0373022669402
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10015016",
+      "TOWNID": "1001503",
+      "COUNTYNAME": "花蓮縣",
+      "TOWNNAME": "玉里鎮",
+      "name": "花蓮縣/玉里鎮"
+    },
+    "townName": "玉里鎮",
+    "countyName": "花蓮縣",
+    "point": [
+      121.35811234385305,
+      23.366743610852314
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013016",
+      "TOWNID": "1001302",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "潮州鎮",
+      "name": "屏東縣/潮州鎮"
+    },
+    "townName": "潮州鎮",
+    "countyName": "屏東縣",
+    "point": [
+      120.54448926425614,
+      22.543543193843583
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10010020",
+      "TOWNID": "1001016",
+      "COUNTYNAME": "嘉義縣",
+      "TOWNNAME": "番路鄉",
+      "name": "嘉義縣/番路鄉"
+    },
+    "townName": "番路鄉",
+    "countyName": "嘉義縣",
+    "point": [
+      120.58842403547578,
+      23.43694563778188
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006003",
+      "TOWNID": "1000613",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "外埔區",
+      "name": "台中市/外埔區"
+    },
+    "townName": "外埔區",
+    "countyName": "台中市",
+    "point": [
+      120.66737854968407,
+      24.335336625905565
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007017",
+      "TOWNID": "1000717",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "社頭鄉",
+      "name": "彰化縣/社頭鄉"
+    },
+    "townName": "社頭鄉",
+    "countyName": "彰化縣",
+    "point": [
+      120.6159518943502,
+      23.906519446952032
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013033",
+      "TOWNID": "1001323",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "車城鄉",
+      "name": "屏東縣/車城鄉"
+    },
+    "townName": "車城鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.7246534192018,
+      22.077256108279883
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012001",
+      "TOWNID": "1001227",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "三民區",
+      "name": "高雄市/三民區"
+    },
+    "townName": "三民區",
+    "countyName": "高雄市",
+    "point": [
+      120.62803076887978,
+      23.132388349174565
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011026",
+      "TOWNID": "1001131",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "永康區",
+      "name": "台南市/永康區"
+    },
+    "townName": "永康區",
+    "countyName": "台南市",
+    "point": [
+      120.25565279977941,
+      23.02593287987002
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10017023",
+      "TOWNID": "1001705",
+      "COUNTYNAME": "基隆市",
+      "TOWNNAME": "中山區(海)",
+      "name": "基隆市/中山區(海)"
+    },
+    "townName": "中山區(海)",
+    "countyName": "基隆市",
+    "point": [
+      121.74917649150022,
+      25.147226837633614
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011025",
+      "TOWNID": "1001118",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "新化區",
+      "name": "台南市/新化區"
+    },
+    "townName": "新化區",
+    "countyName": "台南市",
+    "point": [
+      120.34379258838625,
+      23.036391336862067
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013014",
+      "TOWNID": "1001312",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "萬巒鄉",
+      "name": "屏東縣/萬巒鄉"
+    },
+    "townName": "萬巒鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.61229513137424,
+      22.581059713275405
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10008002",
+      "TOWNID": "1000810",
+      "COUNTYNAME": "南投縣",
+      "TOWNNAME": "國姓鄉",
+      "name": "南投縣/國姓鄉"
+    },
+    "townName": "國姓鄉",
+    "countyName": "南投縣",
+    "point": [
+      120.87032187869764,
+      24.02723664576753
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013018",
+      "TOWNID": "1001317",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "新園鄉",
+      "name": "屏東縣/新園鄉"
+    },
+    "townName": "新園鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.45974581947551,
+      22.521946237789887
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007028",
+      "TOWNID": "1000712",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "田中鎮",
+      "name": "彰化縣/田中鎮"
+    },
+    "townName": "田中鎮",
+    "countyName": "彰化縣",
+    "point": [
+      120.60265879712006,
+      23.859464902761907
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001084",
+      "TOWNID": "1000109",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "三峽區",
+      "name": "新北市/三峽區"
+    },
+    "townName": "三峽區",
+    "countyName": "新北市",
+    "point": [
+      121.40961805186147,
+      24.87849442196501
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10021007",
+      "TOWNID": "1002107",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "安平區(海)",
+      "name": "台南市/安平區(海)"
+    },
+    "townName": "安平區(海)",
+    "countyName": "台南市",
+    "point": [
+      120.15922967658315,
+      22.969598541427334
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007006",
+      "TOWNID": "1000708",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "花壇鄉",
+      "name": "彰化縣/花壇鄉"
+    },
+    "townName": "花壇鄉",
+    "countyName": "彰化縣",
+    "point": [
+      120.56245842937422,
+      24.033001039735648
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10005006",
+      "TOWNID": "1000512",
+      "COUNTYNAME": "苗栗縣",
+      "TOWNNAME": "頭屋鄉",
+      "name": "苗栗縣/頭屋鄉"
+    },
+    "townName": "頭屋鄉",
+    "countyName": "苗栗縣",
+    "point": [
+      120.88248777319356,
+      24.575074127551368
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013026",
+      "TOWNID": "1001316",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "枋寮鄉",
+      "name": "屏東縣/枋寮鄉"
+    },
+    "townName": "枋寮鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.60438069782622,
+      22.39338728034603
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007031",
+      "TOWNID": "1000718",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "二水鄉",
+      "name": "彰化縣/二水鄉"
+    },
+    "townName": "二水鄉",
+    "countyName": "彰化縣",
+    "point": [
+      120.63101460308864,
+      23.822619791013576
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001059",
+      "TOWNID": "1000105",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "新莊區",
+      "name": "新北市/新莊區"
+    },
+    "townName": "新莊區",
+    "countyName": "新北市",
+    "point": [
+      121.42444690945668,
+      25.033633908734142
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "64000014",
+      "TOWNID": "6400011",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "小港區",
+      "name": "高雄市/小港區"
+    },
+    "townName": "小港區",
+    "countyName": "高雄市",
+    "point": [
+      120.34505320149927,
+      22.548775932495424
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001085",
+      "TOWNID": "1000129",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "烏來區",
+      "name": "新北市/烏來區"
+    },
+    "townName": "烏來區",
+    "countyName": "新北市",
+    "point": [
+      121.56806870105365,
+      24.796651364346552
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10008005",
+      "TOWNID": "1000801",
+      "COUNTYNAME": "南投縣",
+      "TOWNNAME": "南投市",
+      "name": "南投縣/南投市"
+    },
+    "townName": "南投市",
+    "countyName": "南投縣",
+    "point": [
+      120.67037199107405,
+      23.92101374440323
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011029",
+      "TOWNID": "1001128",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "歸仁區",
+      "name": "台南市/歸仁區"
+    },
+    "townName": "歸仁區",
+    "countyName": "台南市",
+    "point": [
+      120.29510431007661,
+      22.95075451000272
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10014080",
+      "TOWNID": "1001415",
+      "COUNTYNAME": "台東縣",
+      "TOWNNAME": "達仁鄉",
+      "name": "台東縣/達仁鄉"
+    },
+    "townName": "達仁鄉",
+    "countyName": "台東縣",
+    "point": [
+      120.84936743014956,
+      22.367971428662038
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "63000005",
+      "TOWNID": "6300006",
+      "COUNTYNAME": "台北市",
+      "TOWNNAME": "大同區",
+      "name": "台北市/大同區"
+    },
+    "townName": "大同區",
+    "countyName": "台北市",
+    "point": [
+      121.51284587993584,
+      25.060191024811047
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10019003",
+      "TOWNID": "1001905",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "北區",
+      "name": "台中市/北區"
+    },
+    "townName": "北區",
+    "countyName": "台中市",
+    "point": [
+      120.6773817751519,
+      24.157499381809245
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "64000001",
+      "TOWNID": "6400004",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "楠梓區",
+      "name": "高雄市/楠梓區"
+    },
+    "townName": "楠梓區",
+    "countyName": "高雄市",
+    "point": [
+      120.30146166229872,
+      22.72359482729467
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011008",
+      "TOWNID": "1001113",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "學甲區",
+      "name": "台南市/學甲區"
+    },
+    "townName": "學甲區",
+    "countyName": "台南市",
+    "point": [
+      120.18854865774661,
+      23.258193063014556
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009017",
+      "TOWNID": "1000914",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "東勢鄉",
+      "name": "雲林縣/東勢鄉"
+    },
+    "townName": "東勢鄉",
+    "countyName": "雲林縣",
+    "point": [
+      120.25919526087273,
+      23.694963949845114
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "09007145",
+      "TOWNID": "0900703",
+      "COUNTYNAME": "連江縣",
+      "TOWNNAME": "莒光鄉",
+      "name": "連江縣/莒光鄉"
+    },
+    "townName": "莒光鄉",
+    "countyName": "連江縣",
+    "point": [
+      119.96966365887508,
+      25.96637091075314
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10014078",
+      "TOWNID": "1001409",
+      "COUNTYNAME": "台東縣",
+      "TOWNNAME": "太麻里鄉",
+      "name": "台東縣/太麻里鄉"
+    },
+    "townName": "太麻里鄉",
+    "countyName": "台東縣",
+    "point": [
+      120.97520340701818,
+      22.589725646598747
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012007",
+      "TOWNID": "1001225",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "茂林區",
+      "name": "高雄市/茂林區"
+    },
+    "townName": "茂林區",
+    "countyName": "高雄市",
+    "point": [
+      120.76401546540416,
+      22.911323136824176
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009019",
+      "TOWNID": "1000902",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "斗南鎮",
+      "name": "雲林縣/斗南鎮"
+    },
+    "townName": "斗南鎮",
+    "countyName": "雲林縣",
+    "point": [
+      120.48279087373099,
+      23.671005933390926
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013002",
+      "TOWNID": "1001309",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "里港鄉",
+      "name": "屏東縣/里港鄉"
+    },
+    "townName": "里港鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.50963430661936,
+      22.80019527841772
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001051",
+      "TOWNID": "1000114",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "蘆洲區",
+      "name": "新北市/蘆洲區"
+    },
+    "townName": "蘆洲區",
+    "countyName": "新北市",
+    "point": [
+      121.47032861789934,
+      25.087391131921144
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10014060",
+      "TOWNID": "1001401",
+      "COUNTYNAME": "台東縣",
+      "TOWNNAME": "台東市",
+      "name": "台東縣/台東市"
+    },
+    "townName": "台東市",
+    "countyName": "台東縣",
+    "point": [
+      121.1282518360346,
+      22.768457601967892
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011014",
+      "TOWNID": "1001124",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "楠西區",
+      "name": "台南市/楠西區"
+    },
+    "townName": "楠西區",
+    "countyName": "台南市",
+    "point": [
+      120.51035121325211,
+      23.17185000774147
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10010001",
+      "TOWNID": "1001006",
+      "COUNTYNAME": "嘉義縣",
+      "TOWNNAME": "溪口鄉",
+      "name": "嘉義縣/溪口鄉"
+    },
+    "townName": "溪口鄉",
+    "countyName": "嘉義縣",
+    "point": [
+      120.40354426810309,
+      23.595078328688285
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006011",
+      "TOWNID": "1000606",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "梧棲鎮(海區",
+      "name": "台中市/梧棲鎮(海區"
+    },
+    "townName": "梧棲鎮(海區",
+    "countyName": "台中市",
+    "point": [
+      120.51070511699426,
+      24.259233722411576
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10004013",
+      "TOWNID": "1000413",
+      "COUNTYNAME": "新竹縣",
+      "TOWNNAME": "五峰鄉",
+      "name": "新竹縣/五峰鄉"
+    },
+    "townName": "五峰鄉",
+    "countyName": "新竹縣",
+    "point": [
+      121.13522788248231,
+      24.581906909938557
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012024",
+      "TOWNID": "1001207",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "鳥松區",
+      "name": "高雄市/鳥松區"
+    },
+    "townName": "鳥松區",
+    "countyName": "高雄市",
+    "point": [
+      120.37364364448099,
+      22.6645267478757
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006022",
+      "TOWNID": "1000619",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "太平區",
+      "name": "台中市/太平區"
+    },
+    "townName": "太平區",
+    "countyName": "台中市",
+    "point": [
+      120.77773269880583,
+      24.11176195708137
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10005010",
+      "TOWNID": "1000517",
+      "COUNTYNAME": "苗栗縣",
+      "TOWNNAME": "獅潭鄉",
+      "name": "苗栗縣/獅潭鄉"
+    },
+    "townName": "獅潭鄉",
+    "countyName": "苗栗縣",
+    "point": [
+      120.92480824974123,
+      24.52650545782209
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007009",
+      "TOWNID": "1000714",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "埔鹽鄉",
+      "name": "彰化縣/埔鹽鄉"
+    },
+    "townName": "埔鹽鄉",
+    "countyName": "彰化縣",
+    "point": [
+      120.4656125113326,
+      23.993065039586348
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009018",
+      "TOWNID": "1000905",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "土庫鎮",
+      "name": "雲林縣/土庫鎮"
+    },
+    "townName": "土庫鎮",
+    "countyName": "雲林縣",
+    "point": [
+      120.3618747708485,
+      23.703286724838843
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006012",
+      "TOWNID": "1000612",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "石岡區",
+      "name": "台中市/石岡區"
+    },
+    "townName": "石岡區",
+    "countyName": "台中市",
+    "point": [
+      120.79040264728,
+      24.2578978797289
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10021006",
+      "TOWNID": "1002101",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "東區",
+      "name": "台南市/東區"
+    },
+    "townName": "東區",
+    "countyName": "台南市",
+    "point": [
+      120.23509908932083,
+      22.98107731758852
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007001",
+      "TOWNID": "1000705",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "伸港鄉",
+      "name": "彰化縣/伸港鄉"
+    },
+    "townName": "伸港鄉",
+    "countyName": "彰化縣",
+    "point": [
+      120.47400041996856,
+      24.16361331209769
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "09020001",
+      "TOWNID": "0902001",
+      "COUNTYNAME": "金門縣",
+      "TOWNNAME": "金城鎮",
+      "name": "金門縣/金城鎮"
+    },
+    "townName": "金城鎮",
+    "countyName": "金門縣",
+    "point": [
+      118.30892488162922,
+      24.40687055101276
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10008010",
+      "TOWNID": "1000811",
+      "COUNTYNAME": "南投縣",
+      "TOWNNAME": "水里鄉",
+      "name": "南投縣/水里鄉"
+    },
+    "townName": "水里鄉",
+    "countyName": "南投縣",
+    "point": [
+      120.8650892314922,
+      23.811416093590218
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10014052",
+      "TOWNID": "1001413",
+      "COUNTYNAME": "台東縣",
+      "TOWNNAME": "延平鄉",
+      "name": "台東縣/延平鄉"
+    },
+    "townName": "延平鄉",
+    "countyName": "台東縣",
+    "point": [
+      121.02199672023356,
+      22.90857005745181
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009016",
+      "TOWNID": "1000901",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "斗六市",
+      "name": "雲林縣/斗六市"
+    },
+    "townName": "斗六市",
+    "countyName": "雲林縣",
+    "point": [
+      120.57712462648995,
+      23.697226656523817
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10004009",
+      "TOWNID": "1000408",
+      "COUNTYNAME": "新竹縣",
+      "TOWNNAME": "橫山鄉",
+      "name": "新竹縣/橫山鄉"
+    },
+    "townName": "橫山鄉",
+    "countyName": "新竹縣",
+    "point": [
+      121.15503674933439,
+      24.715857732134737
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012004",
+      "TOWNID": "1001221",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "六龜區",
+      "name": "高雄市/六龜區"
+    },
+    "townName": "六龜區",
+    "countyName": "高雄市",
+    "point": [
+      120.65259751654892,
+      23.000677987169855
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10019008",
+      "TOWNID": "1001903",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "南區",
+      "name": "台中市/南區"
+    },
+    "townName": "南區",
+    "countyName": "台中市",
+    "point": [
+      120.65840970622618,
+      24.11801752525925
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10002052",
+      "TOWNID": "1000202",
+      "COUNTYNAME": "宜蘭縣",
+      "TOWNNAME": "羅東鎮",
+      "name": "宜蘭縣/羅東鎮"
+    },
+    "townName": "羅東鎮",
+    "countyName": "宜蘭縣",
+    "point": [
+      121.77124284752146,
+      24.677017189678313
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006010",
+      "TOWNID": "1000608",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "神岡區",
+      "name": "台中市/神岡區"
+    },
+    "townName": "神岡區",
+    "countyName": "台中市",
+    "point": [
+      120.67684756082782,
+      24.25410498836937
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10008012",
+      "TOWNID": "1000804",
+      "COUNTYNAME": "南投縣",
+      "TOWNNAME": "竹山鎮",
+      "name": "南投縣/竹山鎮"
+    },
+    "townName": "竹山鎮",
+    "countyName": "南投縣",
+    "point": [
+      120.70780070329751,
+      23.700063617453942
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011007",
+      "TOWNID": "1001104",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "柳營區",
+      "name": "台南市/柳營區"
+    },
+    "townName": "柳營區",
+    "countyName": "台南市",
+    "point": [
+      120.3600164952003,
+      23.263413274565856
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10015006",
+      "TOWNID": "1001502",
+      "COUNTYNAME": "花蓮縣",
+      "TOWNNAME": "鳳林鎮",
+      "name": "花蓮縣/鳳林鎮"
+    },
+    "townName": "鳳林鎮",
+    "countyName": "花蓮縣",
+    "point": [
+      121.46671749248156,
+      23.74232717807884
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001016",
+      "TOWNID": "1000127",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "金山區",
+      "name": "新北市/金山區"
+    },
+    "townName": "金山區",
+    "countyName": "新北市",
+    "point": [
+      121.61148045154438,
+      25.21825463909932
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012018",
+      "TOWNID": "1001217",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "彌陀區",
+      "name": "高雄市/彌陀區"
+    },
+    "townName": "彌陀區",
+    "countyName": "高雄市",
+    "point": [
+      120.24291916260675,
+      22.77462797541197
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10010018",
+      "TOWNID": "1001012",
+      "COUNTYNAME": "嘉義縣",
+      "TOWNNAME": "水上鄉",
+      "name": "嘉義縣/水上鄉"
+    },
+    "townName": "水上鄉",
+    "countyName": "嘉義縣",
+    "point": [
+      120.43885792661143,
+      23.42134153513844
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10021009",
+      "TOWNID": "1002103",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "南區",
+      "name": "台南市/南區"
+    },
+    "townName": "南區",
+    "countyName": "台南市",
+    "point": [
+      120.18151100128453,
+      22.949858346313146
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10003007",
+      "TOWNID": "1000311",
+      "COUNTYNAME": "桃園縣",
+      "TOWNNAME": "新屋鄉",
+      "name": "桃園縣/新屋鄉"
+    },
+    "townName": "新屋鄉",
+    "countyName": "桃園縣",
+    "point": [
+      121.06374020742861,
+      24.971920346522346
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10008011",
+      "TOWNID": "1000807",
+      "COUNTYNAME": "南投縣",
+      "TOWNNAME": "鹿谷鄉",
+      "name": "南投縣/鹿谷鄉"
+    },
+    "townName": "鹿谷鄉",
+    "countyName": "南投縣",
+    "point": [
+      120.77570482915132,
+      23.74240204281281
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10017028",
+      "TOWNID": "1001704",
+      "COUNTYNAME": "基隆市",
+      "TOWNNAME": "仁愛區",
+      "name": "基隆市/仁愛區"
+    },
+    "townName": "仁愛區",
+    "countyName": "基隆市",
+    "point": [
+      121.74274732459195,
+      25.117314900789594
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10003012",
+      "TOWNID": "1000309",
+      "COUNTYNAME": "桃園縣",
+      "TOWNNAME": "龍潭鄉",
+      "name": "桃園縣/龍潭鄉"
+    },
+    "townName": "龍潭鄉",
+    "countyName": "桃園縣",
+    "point": [
+      121.20565957226637,
+      24.856359340911872
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10021003",
+      "TOWNID": "1002102",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "中西區",
+      "name": "台南市/中西區"
+    },
+    "townName": "中西區",
+    "countyName": "台南市",
+    "point": [
+      120.18817763919766,
+      22.998909880225508
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009027",
+      "TOWNID": "1000920",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "水林鄉",
+      "name": "雲林縣/水林鄉"
+    },
+    "townName": "水林鄉",
+    "countyName": "雲林縣",
+    "point": [
+      120.23672148808528,
+      23.569490542481955
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10003010",
+      "TOWNID": "1000304",
+      "COUNTYNAME": "桃園縣",
+      "TOWNNAME": "楊梅鎮",
+      "name": "桃園縣/楊梅鎮"
+    },
+    "townName": "楊梅鎮",
+    "countyName": "桃園縣",
+    "point": [
+      121.12479646298254,
+      24.91268278434518
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011023",
+      "TOWNID": "1001121",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "安定區",
+      "name": "台南市/安定區"
+    },
+    "townName": "安定區",
+    "countyName": "台南市",
+    "point": [
+      120.2360932713902,
+      23.09634016456387
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001078",
+      "TOWNID": "1000107",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "樹林區",
+      "name": "新北市/樹林區"
+    },
+    "townName": "樹林區",
+    "countyName": "新北市",
+    "point": [
+      121.40050064189619,
+      24.98476917925463
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012002",
+      "TOWNID": "1001226",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "桃源區",
+      "name": "高雄市/桃源區"
+    },
+    "townName": "桃源區",
+    "countyName": "高雄市",
+    "point": [
+      120.85130579942958,
+      23.234222592275977
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "09007127",
+      "TOWNID": "0900704",
+      "COUNTYNAME": "連江縣",
+      "TOWNNAME": "東引鄉",
+      "name": "連江縣/東引鄉"
+    },
+    "townName": "東引鄉",
+    "countyName": "連江縣",
+    "point": [
+      120.4577740937333,
+      26.36227932784282
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001047",
+      "TOWNID": "1000115",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "五股區",
+      "name": "新北市/五股區"
+    },
+    "townName": "五股區",
+    "countyName": "新北市",
+    "point": [
+      121.42491210843643,
+      25.093872311792218
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10010004",
+      "TOWNID": "1001015",
+      "COUNTYNAME": "嘉義縣",
+      "TOWNNAME": "梅山鄉",
+      "name": "嘉義縣/梅山鄉"
+    },
+    "townName": "梅山鄉",
+    "countyName": "嘉義縣",
+    "point": [
+      120.60936877328257,
+      23.557767111257597
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10004005",
+      "TOWNID": "1000404",
+      "COUNTYNAME": "新竹縣",
+      "TOWNNAME": "關西鎮",
+      "name": "新竹縣/關西鎮"
+    },
+    "townName": "關西鎮",
+    "countyName": "新竹縣",
+    "point": [
+      121.18104740079846,
+      24.788936932568344
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013019",
+      "TOWNID": "1001330",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "來義鄉",
+      "name": "屏東縣/來義鄉"
+    },
+    "townName": "來義鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.65468110039168,
+      22.493293812789027
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "64000005",
+      "TOWNID": "6400006",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "新興區",
+      "name": "高雄市/新興區"
+    },
+    "townName": "新興區",
+    "countyName": "高雄市",
+    "point": [
+      120.30861560909459,
+      22.630559534749967
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007029",
+      "TOWNID": "1000725",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "竹塘鄉",
+      "name": "彰化縣/竹塘鄉"
+    },
+    "townName": "竹塘鄉",
+    "countyName": "彰化縣",
+    "point": [
+      120.41157726822252,
+      23.856883113809126
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10015001",
+      "TOWNID": "1001511",
+      "COUNTYNAME": "花蓮縣",
+      "TOWNNAME": "秀林鄉",
+      "name": "花蓮縣/秀林鄉"
+    },
+    "townName": "秀林鄉",
+    "countyName": "花蓮縣",
+    "point": [
+      121.4936695874446,
+      24.1355296430816
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001033",
+      "TOWNID": "1000112",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "瑞芳區",
+      "name": "新北市/瑞芳區"
+    },
+    "townName": "瑞芳區",
+    "countyName": "新北市",
+    "point": [
+      121.84566351858766,
+      25.114004615743664
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10005004",
+      "TOWNID": "1000515",
+      "COUNTYNAME": "苗栗縣",
+      "TOWNNAME": "造橋鄉",
+      "name": "苗栗縣/造橋鄉"
+    },
+    "townName": "造橋鄉",
+    "countyName": "苗栗縣",
+    "point": [
+      120.88379528785214,
+      24.617058056971157
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013011",
+      "TOWNID": "1001307",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "麟洛鄉",
+      "name": "屏東縣/麟洛鄉"
+    },
+    "townName": "麟洛鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.52545702351578,
+      22.65029163220218
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009023",
+      "TOWNID": "1000907",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "古坑鄉",
+      "name": "雲林縣/古坑鄉"
+    },
+    "townName": "古坑鄉",
+    "countyName": "雲林縣",
+    "point": [
+      120.6126251145406,
+      23.629539657654913
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007016",
+      "TOWNID": "1000716",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "永靖鄉",
+      "name": "彰化縣/永靖鄉"
+    },
+    "townName": "永靖鄉",
+    "countyName": "彰化縣",
+    "point": [
+      120.53104229044814,
+      23.92480677058048
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10008003",
+      "TOWNID": "1000803",
+      "COUNTYNAME": "南投縣",
+      "TOWNNAME": "草屯鎮",
+      "name": "南投縣/草屯鎮"
+    },
+    "townName": "草屯鎮",
+    "countyName": "南投縣",
+    "point": [
+      120.74130776171974,
+      23.977090138492578
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007013",
+      "TOWNID": "1000715",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "埔心鄉",
+      "name": "彰化縣/埔心鄉"
+    },
+    "townName": "埔心鄉",
+    "countyName": "彰化縣",
+    "point": [
+      120.52896295732492,
+      23.95448552257392
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10015010",
+      "TOWNID": "1001509",
+      "COUNTYNAME": "花蓮縣",
+      "TOWNNAME": "瑞穗鄉",
+      "name": "花蓮縣/瑞穗鄉"
+    },
+    "townName": "瑞穗鄉",
+    "countyName": "花蓮縣",
+    "point": [
+      121.41076654833067,
+      23.519222879494833
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10017001",
+      "TOWNID": "1001701",
+      "COUNTYNAME": "基隆市",
+      "TOWNNAME": "中正區",
+      "name": "基隆市/中正區"
+    },
+    "townName": "中正區",
+    "countyName": "基隆市",
+    "point": [
+      122.2639111110322,
+      25.344507010377868
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10017027",
+      "TOWNID": "1001707",
+      "COUNTYNAME": "基隆市",
+      "TOWNNAME": "信義區",
+      "name": "基隆市/信義區"
+    },
+    "townName": "信義區",
+    "countyName": "基隆市",
+    "point": [
+      121.7733105674361,
+      25.125561692629734
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012009",
+      "TOWNID": "1001214",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "湖內區",
+      "name": "高雄市/湖內區"
+    },
+    "townName": "湖內區",
+    "countyName": "高雄市",
+    "point": [
+      120.22648862809629,
+      22.890524562404273
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10014013",
+      "TOWNID": "1001402",
+      "COUNTYNAME": "台東縣",
+      "TOWNNAME": "成功鎮",
+      "name": "台東縣/成功鎮"
+    },
+    "townName": "成功鎮",
+    "countyName": "台東縣",
+    "point": [
+      121.37134482220517,
+      23.121646287403987
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013017",
+      "TOWNID": "1001318",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "崁頂鄉",
+      "name": "屏東縣/崁頂鄉"
+    },
+    "townName": "崁頂鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.50586403976352,
+      22.51425129246139
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10008009",
+      "TOWNID": "1000805",
+      "COUNTYNAME": "南投縣",
+      "TOWNNAME": "集集鎮",
+      "name": "南投縣/集集鎮"
+    },
+    "townName": "集集鎮",
+    "countyName": "南投縣",
+    "point": [
+      120.78239781592347,
+      23.844098413128545
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009006",
+      "TOWNID": "1000912",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "崙背鄉",
+      "name": "雲林縣/崙背鄉"
+    },
+    "townName": "崙背鄉",
+    "countyName": "雲林縣",
+    "point": [
+      120.33831958069115,
+      23.768201249425925
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "63000011",
+      "TOWNID": "6300003",
+      "COUNTYNAME": "台北市",
+      "TOWNNAME": "大安區",
+      "name": "台北市/大安區"
+    },
+    "townName": "大安區",
+    "countyName": "台北市",
+    "point": [
+      121.54922415505237,
+      25.01769319097569
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013024",
+      "TOWNID": "1001321",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "佳冬鄉",
+      "name": "屏東縣/佳冬鄉"
+    },
+    "townName": "佳冬鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.54703952273577,
+      22.42431964150708
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011018",
+      "TOWNID": "1001123",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "玉井區",
+      "name": "台南市/玉井區"
+    },
+    "townName": "玉井區",
+    "countyName": "台南市",
+    "point": [
+      120.46159702028106,
+      23.116842420908544
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10010013",
+      "TOWNID": "1001001",
+      "COUNTYNAME": "嘉義縣",
+      "TOWNNAME": "太保市",
+      "name": "嘉義縣/太保市"
+    },
+    "townName": "太保市",
+    "countyName": "嘉義縣",
+    "point": [
+      120.35207224265932,
+      23.47390887331669
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001068",
+      "TOWNID": "1000101",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "板橋區",
+      "name": "新北市/板橋區"
+    },
+    "townName": "板橋區",
+    "countyName": "新北市",
+    "point": [
+      121.45255447521592,
+      24.999008205863618
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012019",
+      "TOWNID": "1001209",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "橋頭區",
+      "name": "高雄市/橋頭區"
+    },
+    "townName": "橋頭區",
+    "countyName": "高雄市",
+    "point": [
+      120.30077756621981,
+      22.751839041812243
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011005",
+      "TOWNID": "1001117",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "北門區",
+      "name": "台南市/北門區"
+    },
+    "townName": "北門區",
+    "countyName": "台南市",
+    "point": [
+      120.13212706477049,
+      23.280662404654915
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10005018",
+      "TOWNID": "1000508",
+      "COUNTYNAME": "苗栗縣",
+      "TOWNNAME": "大湖鄉",
+      "name": "苗栗縣/大湖鄉"
+    },
+    "townName": "大湖鄉",
+    "countyName": "苗栗縣",
+    "point": [
+      120.84651704880842,
+      24.38370870380317
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006021",
+      "TOWNID": "1000616",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "大肚區",
+      "name": "台中市/大肚區"
+    },
+    "townName": "大肚區",
+    "countyName": "台中市",
+    "point": [
+      120.56190174335954,
+      24.14776702542298
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001043",
+      "TOWNID": "1000117",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "林口區",
+      "name": "新北市/林口區"
+    },
+    "townName": "林口區",
+    "countyName": "新北市",
+    "point": [
+      121.37476876192001,
+      25.09025479000244
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "63000006",
+      "TOWNID": "6300001",
+      "COUNTYNAME": "台北市",
+      "TOWNNAME": "松山區",
+      "name": "台北市/松山區"
+    },
+    "townName": "松山區",
+    "countyName": "台北市",
+    "point": [
+      121.56133626406346,
+      25.06308773505372
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001057",
+      "TOWNID": "1000116",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "泰山區",
+      "name": "新北市/泰山區"
+    },
+    "townName": "泰山區",
+    "countyName": "新北市",
+    "point": [
+      121.40588836873933,
+      25.05927391851043
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10017022",
+      "TOWNID": "1001701",
+      "COUNTYNAME": "基隆市",
+      "TOWNNAME": "中正區(海)",
+      "name": "基隆市/中正區(海)"
+    },
+    "townName": "中正區(海)",
+    "countyName": "基隆市",
+    "point": [
+      121.76047368943246,
+      25.151742897137954
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011004",
+      "TOWNID": "1001101",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "新營區",
+      "name": "台南市/新營區"
+    },
+    "townName": "新營區",
+    "countyName": "台南市",
+    "point": [
+      120.29756889354846,
+      23.310998675466006
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "63000010",
+      "TOWNID": "6300002",
+      "COUNTYNAME": "台北市",
+      "TOWNNAME": "信義區",
+      "name": "台北市/信義區"
+    },
+    "townName": "信義區",
+    "countyName": "台北市",
+    "point": [
+      121.57803380836256,
+      25.02866540437875
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10019007",
+      "TOWNID": "1001902",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "東區",
+      "name": "台中市/東區"
+    },
+    "townName": "東區",
+    "countyName": "台中市",
+    "point": [
+      120.69681767021989,
+      24.140781600878242
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10005020",
+      "TOWNID": "1000507",
+      "COUNTYNAME": "苗栗縣",
+      "TOWNNAME": "卓蘭鎮",
+      "name": "苗栗縣/卓蘭鎮"
+    },
+    "townName": "卓蘭鎮",
+    "countyName": "苗栗縣",
+    "point": [
+      120.83793582125301,
+      24.336018576149545
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007020",
+      "TOWNID": "1000724",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "大城鄉",
+      "name": "彰化縣/大城鄉"
+    },
+    "townName": "大城鄉",
+    "countyName": "彰化縣",
+    "point": [
+      120.29902053269376,
+      23.867206820906613
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006018",
+      "TOWNID": "1000609",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "潭子區",
+      "name": "台中市/潭子區"
+    },
+    "townName": "潭子區",
+    "countyName": "台中市",
+    "point": [
+      120.71041519440695,
+      24.209871558234155
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006019",
+      "TOWNID": "1000617",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "龍井區",
+      "name": "台中市/龍井區"
+    },
+    "townName": "龍井區",
+    "countyName": "台中市",
+    "point": [
+      120.52847316357861,
+      24.201095644881505
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007032",
+      "TOWNID": "1000702",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "鹿港鎮",
+      "name": "彰化縣/鹿港鎮"
+    },
+    "townName": "鹿港鎮",
+    "countyName": "彰化縣",
+    "point": [
+      120.43251696809195,
+      24.08567284843609
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013020",
+      "TOWNID": "1001315",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "新埤鄉",
+      "name": "屏東縣/新埤鄉"
+    },
+    "townName": "新埤鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.60012633420236,
+      22.475154958888083
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10014079",
+      "TOWNID": "1001410",
+      "COUNTYNAME": "台東縣",
+      "TOWNNAME": "大武鄉",
+      "name": "台東縣/大武鄉"
+    },
+    "townName": "大武鄉",
+    "countyName": "台東縣",
+    "point": [
+      120.89445480406495,
+      22.3814789774643
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10015008",
+      "TOWNID": "1001507",
+      "COUNTYNAME": "花蓮縣",
+      "TOWNNAME": "光復鄉",
+      "name": "花蓮縣/光復鄉"
+    },
+    "townName": "光復鄉",
+    "countyName": "花蓮縣",
+    "point": [
+      121.44896939212765,
+      23.65261132675488
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "64000013",
+      "TOWNID": "6400010",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "旗津區",
+      "name": "高雄市/旗津區"
+    },
+    "townName": "旗津區",
+    "countyName": "高雄市",
+    "point": [
+      120.29005551300777,
+      22.58233914301231
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006024",
+      "TOWNID": "1000615",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "烏日區",
+      "name": "台中市/烏日區"
+    },
+    "townName": "烏日區",
+    "countyName": "台中市",
+    "point": [
+      120.63250979665368,
+      24.088128418969717
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10015017",
+      "TOWNID": "1001510",
+      "COUNTYNAME": "花蓮縣",
+      "TOWNNAME": "富里鄉",
+      "name": "花蓮縣/富里鄉"
+    },
+    "townName": "富里鄉",
+    "countyName": "花蓮縣",
+    "point": [
+      121.29975853578016,
+      23.197221294679718
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011021",
+      "TOWNID": "1001125",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "南化區",
+      "name": "台南市/南化區"
+    },
+    "townName": "南化區",
+    "countyName": "台南市",
+    "point": [
+      120.53321268882216,
+      23.110367548989007
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001061",
+      "TOWNID": "1000124",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "平溪區",
+      "name": "新北市/平溪區"
+    },
+    "townName": "平溪區",
+    "countyName": "新北市",
+    "point": [
+      121.75687923121981,
+      25.022867983337992
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10010006",
+      "TOWNID": "1001008",
+      "COUNTYNAME": "嘉義縣",
+      "TOWNNAME": "六腳鄉",
+      "name": "嘉義縣/六腳鄉"
+    },
+    "townName": "六腳鄉",
+    "countyName": "嘉義縣",
+    "point": [
+      120.26782016131995,
+      23.508976105436744
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006002",
+      "TOWNID": "1000614",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "大安區",
+      "name": "台中市/大安區"
+    },
+    "townName": "大安區",
+    "countyName": "台中市",
+    "point": [
+      120.58480230393988,
+      24.362387957795058
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10005019",
+      "TOWNID": "1000513",
+      "COUNTYNAME": "苗栗縣",
+      "TOWNNAME": "三義鄉",
+      "name": "苗栗縣/三義鄉"
+    },
+    "townName": "三義鄉",
+    "countyName": "苗栗縣",
+    "point": [
+      120.77353337121393,
+      24.381512457097553
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "63000008",
+      "TOWNID": "6300007",
+      "COUNTYNAME": "台北市",
+      "TOWNNAME": "萬華區",
+      "name": "台北市/萬華區"
+    },
+    "townName": "萬華區",
+    "countyName": "台北市",
+    "point": [
+      121.49894177923466,
+      25.02794832904435
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10002056",
+      "TOWNID": "1000203",
+      "COUNTYNAME": "宜蘭縣",
+      "TOWNNAME": "蘇澳鎮",
+      "name": "宜蘭縣/蘇澳鎮"
+    },
+    "townName": "蘇澳鎮",
+    "countyName": "宜蘭縣",
+    "point": [
+      121.85379606865179,
+      24.559709615653794
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011031",
+      "TOWNID": "1001127",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "仁德區",
+      "name": "台南市/仁德區"
+    },
+    "townName": "仁德區",
+    "countyName": "台南市",
+    "point": [
+      120.2486123460479,
+      22.941368028547927
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013027",
+      "TOWNID": "1001322",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "琉球鄉",
+      "name": "屏東縣/琉球鄉"
+    },
+    "townName": "琉球鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.3683461596089,
+      22.338747688768105
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10010026",
+      "TOWNID": "1001017",
+      "COUNTYNAME": "嘉義縣",
+      "TOWNNAME": "大埔鄉",
+      "name": "嘉義縣/大埔鄉"
+    },
+    "townName": "大埔鄉",
+    "countyName": "嘉義縣",
+    "point": [
+      120.59621689825377,
+      23.287332239382703
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10003001",
+      "TOWNID": "1000306",
+      "COUNTYNAME": "桃園縣",
+      "TOWNNAME": "大園鄉",
+      "name": "桃園縣/大園鄉"
+    },
+    "townName": "大園鄉",
+    "countyName": "桃園縣",
+    "point": [
+      121.21517666808941,
+      25.053202147802406
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10003004",
+      "TOWNID": "1000307",
+      "COUNTYNAME": "桃園縣",
+      "TOWNNAME": "龜山鄉",
+      "name": "桃園縣/龜山鄉"
+    },
+    "townName": "龜山鄉",
+    "countyName": "桃園縣",
+    "point": [
+      121.37046811075231,
+      25.026937456299105
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10021002",
+      "TOWNID": "1002104",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "北區",
+      "name": "台南市/北區"
+    },
+    "townName": "北區",
+    "countyName": "台南市",
+    "point": [
+      120.21448821207615,
+      23.010219800026793
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007008",
+      "TOWNID": "1000709",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "芬園鄉",
+      "name": "彰化縣/芬園鄉"
+    },
+    "townName": "芬園鄉",
+    "countyName": "彰化縣",
+    "point": [
+      120.6248209591652,
+      23.997792980944183
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10011012",
+      "TOWNID": "1001110",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "官田區",
+      "name": "台南市/官田區"
+    },
+    "townName": "官田區",
+    "countyName": "台南市",
+    "point": [
+      120.35908710230048,
+      23.194040561217136
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007004",
+      "TOWNID": "1000701",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "彰化市",
+      "name": "彰化縣/彰化市"
+    },
+    "townName": "彰化市",
+    "countyName": "彰化縣",
+    "point": [
+      120.5576233217617,
+      24.0685732670009
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013029",
+      "TOWNID": "1001332",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "獅子鄉",
+      "name": "屏東縣/獅子鄉"
+    },
+    "townName": "獅子鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.73561161231575,
+      22.245412354192414
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013022",
+      "TOWNID": "1001303",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "東港鎮",
+      "name": "屏東縣/東港鎮"
+    },
+    "townName": "東港鎮",
+    "countyName": "屏東縣",
+    "point": [
+      120.47403844749097,
+      22.463757696486866
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10004002",
+      "TOWNID": "1000405",
+      "COUNTYNAME": "新竹縣",
+      "TOWNNAME": "湖口鄉",
+      "name": "新竹縣/湖口鄉"
+    },
+    "townName": "湖口鄉",
+    "countyName": "新竹縣",
+    "point": [
+      121.06365798354791,
+      24.888856150413186
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "64000009",
+      "TOWNID": "6400002",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "鼓山區(海)",
+      "name": "高雄市/鼓山區(海)"
+    },
+    "townName": "鼓山區(海)",
+    "countyName": "高雄市",
+    "point": [
+      120.28053207848862,
+      22.612482969981972
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10005003",
+      "TOWNID": "1000516",
+      "COUNTYNAME": "苗栗縣",
+      "TOWNNAME": "三灣鄉",
+      "name": "苗栗縣/三灣鄉"
+    },
+    "townName": "三灣鄉",
+    "countyName": "苗栗縣",
+    "point": [
+      120.95073612966848,
+      24.632220020157543
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "64000006",
+      "TOWNID": "6400007",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "前金區",
+      "name": "高雄市/前金區"
+    },
+    "townName": "前金區",
+    "countyName": "高雄市",
+    "point": [
+      120.29294769623502,
+      22.626670824132184
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001015",
+      "TOWNID": "1000121",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "三芝區",
+      "name": "新北市/三芝區"
+    },
+    "townName": "三芝區",
+    "countyName": "新北市",
+    "point": [
+      121.50882282983653,
+      25.238959488650078
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10014061",
+      "TOWNID": "1001411",
+      "COUNTYNAME": "台東縣",
+      "TOWNNAME": "綠島鄉",
+      "name": "台東縣/綠島鄉"
+    },
+    "townName": "綠島鄉",
+    "countyName": "台東縣",
+    "point": [
+      121.49623473935573,
+      22.66103306427807
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10005008",
+      "TOWNID": "1000501",
+      "COUNTYNAME": "苗栗縣",
+      "TOWNNAME": "苗栗市",
+      "name": "苗栗縣/苗栗市"
+    },
+    "townName": "苗栗市",
+    "countyName": "苗栗縣",
+    "point": [
+      120.80164562102709,
+      24.55708088858911
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10002055",
+      "TOWNID": "1000208",
+      "COUNTYNAME": "宜蘭縣",
+      "TOWNNAME": "冬山鄉",
+      "name": "宜蘭縣/冬山鄉"
+    },
+    "townName": "冬山鄉",
+    "countyName": "宜蘭縣",
+    "point": [
+      121.7529377068141,
+      24.643936088145768
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10010016",
+      "TOWNID": "1001002",
+      "COUNTYNAME": "嘉義縣",
+      "TOWNNAME": "朴子市",
+      "name": "嘉義縣/朴子市"
+    },
+    "townName": "朴子市",
+    "countyName": "嘉義縣",
+    "point": [
+      120.25259734919389,
+      23.438014950497152
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10008008",
+      "TOWNID": "1000806",
+      "COUNTYNAME": "南投縣",
+      "TOWNNAME": "名間鄉",
+      "name": "南投縣/名間鄉"
+    },
+    "townName": "名間鄉",
+    "countyName": "南投縣",
+    "point": [
+      120.65551151083349,
+      23.850038399390584
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001054",
+      "TOWNID": "1000102",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "三重區",
+      "name": "新北市/三重區"
+    },
+    "townName": "三重區",
+    "countyName": "新北市",
+    "point": [
+      121.48019425768433,
+      25.063803766958138
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10010021",
+      "TOWNID": "1001011",
+      "COUNTYNAME": "嘉義縣",
+      "TOWNNAME": "鹿草鄉",
+      "name": "嘉義縣/鹿草鄉"
+    },
+    "townName": "鹿草鄉",
+    "countyName": "嘉義縣",
+    "point": [
+      120.30111911208482,
+      23.415818871003502
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "09020010",
+      "TOWNID": "0902003",
+      "COUNTYNAME": "金門縣",
+      "TOWNNAME": "金湖鎮",
+      "name": "金門縣/金湖鎮"
+    },
+    "townName": "金湖鎮",
+    "countyName": "金門縣",
+    "point": [
+      118.43383445870435,
+      24.43335992928142
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007019",
+      "TOWNID": "1000722",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "埤頭鄉",
+      "name": "彰化縣/埤頭鄉"
+    },
+    "townName": "埤頭鄉",
+    "countyName": "彰化縣",
+    "point": [
+      120.4685769076275,
+      23.87356811742231
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006013",
+      "TOWNID": "1000601",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "豐原區",
+      "name": "台中市/豐原區"
+    },
+    "townName": "豐原區",
+    "countyName": "台中市",
+    "point": [
+      120.73814843737797,
+      24.2414963926718
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10008006",
+      "TOWNID": "1000808",
+      "COUNTYNAME": "南投縣",
+      "TOWNNAME": "中寮鄉",
+      "name": "南投縣/中寮鄉"
+    },
+    "townName": "中寮鄉",
+    "countyName": "南投縣",
+    "point": [
+      120.77873859858214,
+      23.91017425286086
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013010",
+      "TOWNID": "1001313",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "內埔鄉",
+      "name": "屏東縣/內埔鄉"
+    },
+    "townName": "內埔鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.59814090269964,
+      22.643320149138336
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10003002",
+      "TOWNID": "1000305",
+      "COUNTYNAME": "桃園縣",
+      "TOWNNAME": "蘆竹鄉",
+      "name": "桃園縣/蘆竹鄉"
+    },
+    "townName": "蘆竹鄉",
+    "countyName": "桃園縣",
+    "point": [
+      121.29106067664797,
+      25.058318134771934
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10008007",
+      "TOWNID": "1000809",
+      "COUNTYNAME": "南投縣",
+      "TOWNNAME": "魚池鄉",
+      "name": "南投縣/魚池鄉"
+    },
+    "townName": "魚池鄉",
+    "countyName": "南投縣",
+    "point": [
+      120.91915951937865,
+      23.880659123122864
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10017030",
+      "TOWNID": "1001703",
+      "COUNTYNAME": "基隆市",
+      "TOWNNAME": "暖暖區",
+      "name": "基隆市/暖暖區"
+    },
+    "townName": "暖暖區",
+    "countyName": "基隆市",
+    "point": [
+      121.74513344144736,
+      25.08191827831665
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10019002",
+      "TOWNID": "1001906",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "西屯區",
+      "name": "台中市/西屯區"
+    },
+    "townName": "西屯區",
+    "countyName": "台中市",
+    "point": [
+      120.62982196072005,
+      24.178165921785396
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10004012",
+      "TOWNID": "1000412",
+      "COUNTYNAME": "新竹縣",
+      "TOWNNAME": "尖石鄉",
+      "name": "新竹縣/尖石鄉"
+    },
+    "townName": "尖石鄉",
+    "countyName": "新竹縣",
+    "point": [
+      121.27594999391168,
+      24.605356861589424
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007011",
+      "TOWNID": "1000723",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "芳苑鄉",
+      "name": "彰化縣/芳苑鄉"
+    },
+    "townName": "芳苑鄉",
+    "countyName": "彰化縣",
+    "point": [
+      120.35471058245406,
+      23.944463331772226
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "16191",
+      "TOWNID": "1601",
+      "COUNTYNAME": "澎湖縣",
+      "TOWNNAME": "馬公市",
+      "name": "澎湖縣/馬公市"
+    },
+    "townName": "馬公市",
+    "countyName": "澎湖縣",
+    "point": [
+      119.57485916606576,
+      23.54390679028993
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10010007",
+      "TOWNID": "1001014",
+      "COUNTYNAME": "嘉義縣",
+      "TOWNNAME": "竹崎鄉",
+      "name": "嘉義縣/竹崎鄉"
+    },
+    "townName": "竹崎鄉",
+    "countyName": "嘉義縣",
+    "point": [
+      120.58310705750017,
+      23.50462275581058
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10021008",
+      "TOWNID": "1002103",
+      "COUNTYNAME": "台南市",
+      "TOWNNAME": "南區(海)",
+      "name": "台南市/南區(海)"
+    },
+    "townName": "南區(海)",
+    "countyName": "台南市",
+    "point": [
+      120.16233811078075,
+      22.967147266080747
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012013",
+      "TOWNID": "1001211",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "田寮區",
+      "name": "高雄市/田寮區"
+    },
+    "townName": "田寮區",
+    "countyName": "高雄市",
+    "point": [
+      120.39464628278981,
+      22.869404102489327
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10002050",
+      "TOWNID": "1000201",
+      "COUNTYNAME": "宜蘭縣",
+      "TOWNNAME": "宜蘭市",
+      "name": "宜蘭縣/宜蘭市"
+    },
+    "townName": "宜蘭市",
+    "countyName": "宜蘭縣",
+    "point": [
+      121.75725781731599,
+      24.758321972984938
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10004004",
+      "TOWNID": "1000401",
+      "COUNTYNAME": "新竹縣",
+      "TOWNNAME": "竹北市",
+      "name": "新竹縣/竹北市"
+    },
+    "townName": "竹北市",
+    "countyName": "新竹縣",
+    "point": [
+      121.00553882422635,
+      24.835586688805208
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012005",
+      "TOWNID": "1001223",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "杉林區",
+      "name": "高雄市/杉林區"
+    },
+    "townName": "杉林區",
+    "countyName": "高雄市",
+    "point": [
+      120.55307083280825,
+      22.997163857500265
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "09020006",
+      "TOWNID": "0902002",
+      "COUNTYNAME": "金門縣",
+      "TOWNNAME": "金沙鎮",
+      "name": "金門縣/金沙鎮"
+    },
+    "townName": "金沙鎮",
+    "countyName": "金門縣",
+    "point": [
+      118.42718966279955,
+      24.494455918538616
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012027",
+      "TOWNID": "1001202",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "林園區",
+      "name": "高雄市/林園區"
+    },
+    "townName": "林園區",
+    "countyName": "高雄市",
+    "point": [
+      120.38860248349687,
+      22.50179036522657
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10019001",
+      "TOWNID": "1001908",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "北屯區",
+      "name": "台中市/北屯區"
+    },
+    "townName": "北屯區",
+    "countyName": "台中市",
+    "point": [
+      120.73288260781572,
+      24.187174908570295
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10015015",
+      "TOWNID": "1001513",
+      "COUNTYNAME": "花蓮縣",
+      "TOWNNAME": "卓溪鄉",
+      "name": "花蓮縣/卓溪鄉"
+    },
+    "townName": "卓溪鄉",
+    "countyName": "花蓮縣",
+    "point": [
+      121.19109028607592,
+      23.385590540037676
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "16184",
+      "TOWNID": "1604",
+      "COUNTYNAME": "澎湖縣",
+      "TOWNNAME": "西嶼鄉",
+      "name": "澎湖縣/西嶼鄉"
+    },
+    "townName": "西嶼鄉",
+    "countyName": "澎湖縣",
+    "point": [
+      119.51070638238537,
+      23.611551984426598
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10013013",
+      "TOWNID": "1001314",
+      "COUNTYNAME": "屏東縣",
+      "TOWNNAME": "竹田鄉",
+      "name": "屏東縣/竹田鄉"
+    },
+    "townName": "竹田鄉",
+    "countyName": "屏東縣",
+    "point": [
+      120.52152447876058,
+      22.585069227704516
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10007010",
+      "TOWNID": "1000713",
+      "COUNTYNAME": "彰化縣",
+      "TOWNNAME": "大村鄉",
+      "name": "彰化縣/大村鄉"
+    },
+    "townName": "大村鄉",
+    "countyName": "彰化縣",
+    "point": [
+      120.56354534038057,
+      23.993069208574248
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001083",
+      "TOWNID": "1000120",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "坪林區",
+      "name": "新北市/坪林區"
+    },
+    "townName": "坪林區",
+    "countyName": "新北市",
+    "point": [
+      121.72484709935443,
+      24.90964523375868
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10012010",
+      "TOWNID": "1001215",
+      "COUNTYNAME": "高雄市",
+      "TOWNNAME": "茄萣區",
+      "name": "高雄市/茄萣區"
+    },
+    "townName": "茄萣區",
+    "countyName": "高雄市",
+    "point": [
+      120.19651799184935,
+      22.87793496877017
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10014081",
+      "TOWNID": "1001416",
+      "COUNTYNAME": "台東縣",
+      "TOWNNAME": "蘭嶼鄉",
+      "name": "台東縣/蘭嶼鄉"
+    },
+    "townName": "蘭嶼鄉",
+    "countyName": "台東縣",
+    "point": [
+      121.5544049145133,
+      22.042174969394978
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10010005",
+      "TOWNID": "1001005",
+      "COUNTYNAME": "嘉義縣",
+      "TOWNNAME": "民雄鄉",
+      "name": "嘉義縣/民雄鄉"
+    },
+    "townName": "民雄鄉",
+    "countyName": "嘉義縣",
+    "point": [
+      120.45976787449246,
+      23.540712330610955
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "16001",
+      "TOWNID": "1606",
+      "COUNTYNAME": "澎湖縣",
+      "TOWNNAME": "七美鄉",
+      "name": "澎湖縣/七美鄉"
+    },
+    "townName": "七美鄉",
+    "countyName": "澎湖縣",
+    "point": [
+      119.42961003352848,
+      23.2043159910538
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10006008",
+      "TOWNID": "1000604",
+      "COUNTYNAME": "台中市",
+      "TOWNNAME": "清水鎮(海區",
+      "name": "台中市/清水鎮(海區"
+    },
+    "townName": "清水鎮(海區",
+    "countyName": "台中市",
+    "point": [
+      120.51916030611363,
+      24.288952182256633
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10004007",
+      "TOWNID": "1000410",
+      "COUNTYNAME": "新竹縣",
+      "TOWNNAME": "寶山鄉",
+      "name": "新竹縣/寶山鄉"
+    },
+    "townName": "寶山鄉",
+    "countyName": "新竹縣",
+    "point": [
+      120.99758438801973,
+      24.733704252477764
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10001044",
+      "TOWNID": "1000126",
+      "COUNTYNAME": "新北市",
+      "TOWNNAME": "貢寮區",
+      "name": "新北市/貢寮區"
+    },
+    "townName": "貢寮區",
+    "countyName": "新北市",
+    "point": [
+      121.94419501153375,
+      25.03430660730653
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009024",
+      "TOWNID": "1000906",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "北港鎮",
+      "name": "雲林縣/北港鎮"
+    },
+    "townName": "北港鎮",
+    "countyName": "雲林縣",
+    "point": [
+      120.29116450795885,
+      23.58639069940351
+    ]
+  },
+  {
+    "properties": {
+      "TOWNSN": "10009010",
+      "TOWNID": "1000916",
+      "COUNTYNAME": "雲林縣",
+      "TOWNNAME": "台西鄉",
+      "name": "雲林縣/台西鄉"
+    },
+    "townName": "台西鄉",
+    "countyName": "雲林縣",
+    "point": [
+      120.19199658665374,
+      23.716473541543994
+    ]
+  }
+]

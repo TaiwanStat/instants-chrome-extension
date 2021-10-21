@@ -1,0 +1,51 @@
+.music {
+  display: -webkit-flex;
+  width: 90%;
+  margin: 8px auto 60px;
+  min-height: 75px;
+  max-width: 350px;
+
+  img {
+    box-shadow: .5px .5px .5px #313131;
+    float: left;
+    width: 120px;
+    height: 76px;
+  }
+}
+.music-img-wrapper {
+  &:hover {
+    .play-music {
+      visibility: visible;
+    }
+  }
+}
+
+.play-music {
+  font-size: 24px;
+  visibility: hidden;
+  position: absolute;
+  left: initial;
+  top: initial;
+  margin-top: 24px;
+  margin-left: -10px;
+}
+
+.music-title {
+  width: 220px;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 1.2;
+  text-overflow: ellipsis;
+  white-space: normal;
+  word-wrap: break-word;
+  display: inline-block;
+  width: 57%;
+  &:hover {
+    text-decoration: underline;
+    opacity: 1;
+  }
+}
+
+iframe {
+  border: none;
+}
